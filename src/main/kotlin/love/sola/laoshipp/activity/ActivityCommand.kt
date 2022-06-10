@@ -1,4 +1,4 @@
-package love.sola.laoshipp.w2g
+package love.sola.laoshipp.activity
 
 import dev.minn.jda.ktx.coroutines.await
 import dev.minn.jda.ktx.events.CoroutineEventListener
@@ -8,18 +8,24 @@ import net.dv8tion.jda.api.entities.VoiceChannel
 import net.dv8tion.jda.api.events.GenericEvent
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent
 
-object W2gCommand : CoroutineEventListener {
+object ActivityCommand : CoroutineEventListener {
+
+    private val applications = mapOf(
+        "youtube" to 880218394199220334,
+        "youtube-dev" to 880218832743055411,
+        "sketch" to 902271654783242291
+    )
 
     override suspend fun onEvent(event: GenericEvent) {
         if (event !is SlashCommandInteractionEvent) return
         if (!event.isFromGuild) return
-        if (event.name != "youtube") return
+        val applicationId = applications[event.name] ?: return
         val vc = voiceChannelFromOption(event) ?: userVoiceChannel(event)
         if (vc == null) {
             event.reply("Please join a VC first!").setEphemeral(true).await()
             return
         }
-        val invite = vc.createInvite().setTargetApplication(880218394199220334).await()
+        val invite = vc.createInvite().setTargetApplication(applicationId).await()
         event.reply("https://discord.gg/${invite.code}").await()
     }
 

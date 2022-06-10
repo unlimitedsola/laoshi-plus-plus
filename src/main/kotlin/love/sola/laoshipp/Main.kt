@@ -7,9 +7,9 @@ import dev.minn.jda.ktx.interactions.commands.updateCommands
 import dev.minn.jda.ktx.jdabuilder.cache
 import dev.minn.jda.ktx.jdabuilder.intents
 import dev.minn.jda.ktx.jdabuilder.light
+import love.sola.laoshipp.activity.ActivityCommand
 import love.sola.laoshipp.hsk.HskCommand
 import love.sola.laoshipp.hsk.HskGameEventListener
-import love.sola.laoshipp.w2g.W2gCommand
 import net.dv8tion.jda.api.OnlineStatus
 import net.dv8tion.jda.api.entities.Activity
 import net.dv8tion.jda.api.entities.GuildChannel
@@ -25,7 +25,7 @@ suspend fun main() {
         cache += CacheFlag.VOICE_STATE
         addEventListeners(HskCommand)
         addEventListeners(HskGameEventListener)
-        addEventListeners(W2gCommand)
+        addEventListeners(ActivityCommand)
     }
 
     jda.updateCommands {
@@ -35,8 +35,12 @@ suspend fun main() {
             option<Int>("delay", "The timeout for each round (in seconds).", false)
         }
         slash("hskstop", "End the current running game.")
+
         slash("youtube", "Watch YouTube together!") {
-            option<GuildChannel>("channel", "The voice channel you want to watch within.", false)
+            option<GuildChannel>("channel", "The voice channel you want to watch in.", false)
+        }
+        slash("sketch", "Play Sketch Heads!") {
+            option<GuildChannel>("channel", "The voice channel you want to play in.", false)
         }
     }.await()
 
