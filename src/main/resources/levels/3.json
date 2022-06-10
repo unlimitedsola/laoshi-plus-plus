@@ -1,0 +1,3678 @@
+[
+  {
+    "chs": "阿姨",
+    "cht": "阿姨",
+    "pinyin": [
+      "a1yi2",
+      "āyí"
+    ],
+    "translation": [
+      "auntie",
+      "step-mother",
+      "mother's younger sister"
+    ]
+  },
+  {
+    "chs": "啊",
+    "cht": "啊",
+    "pinyin": [
+      "a",
+      "a"
+    ],
+    "translation": [
+      "ah",
+      "(particle showing elation, doubt, puzzled surprise, or approval)"
+    ]
+  },
+  {
+    "chs": "矮",
+    "cht": "矮",
+    "pinyin": [
+      "ai3",
+      "ǎi"
+    ],
+    "translation": [
+      "short",
+      "low"
+    ]
+  },
+  {
+    "chs": "爱好",
+    "cht": "愛好",
+    "pinyin": [
+      "ai4hao4",
+      "àihào"
+    ],
+    "translation": [
+      "hobby",
+      "fond of",
+      "to like",
+      "interest"
+    ]
+  },
+  {
+    "chs": "安静",
+    "cht": "安靜",
+    "pinyin": [
+      "an1jing4",
+      "ānjìng"
+    ],
+    "translation": [
+      "quiet",
+      "peaceful",
+      "calm"
+    ]
+  },
+  {
+    "chs": "把",
+    "cht": "把",
+    "pinyin": [
+      "ba3",
+      "bǎ"
+    ],
+    "translation": [
+      "(mw for things with handles)",
+      "(pretransitive particle)",
+      "to hold"
+    ]
+  },
+  {
+    "chs": "班",
+    "cht": "班",
+    "pinyin": [
+      "ban1",
+      "bān"
+    ],
+    "translation": [
+      "team",
+      "class",
+      "squad"
+    ]
+  },
+  {
+    "chs": "搬",
+    "cht": "搬",
+    "pinyin": [
+      "ban1",
+      "bān"
+    ],
+    "translation": [
+      "to move",
+      "to transport"
+    ]
+  },
+  {
+    "chs": "办法",
+    "cht": "辦法",
+    "pinyin": [
+      "ban4fa3",
+      "bànfǎ"
+    ],
+    "translation": [
+      "method",
+      "way (of doing something)"
+    ]
+  },
+  {
+    "chs": "办公室",
+    "cht": "辦公室",
+    "pinyin": [
+      "ban4gong1shi4",
+      "bàngōngshì"
+    ],
+    "translation": [
+      "office"
+    ]
+  },
+  {
+    "chs": "半",
+    "cht": "半",
+    "pinyin": [
+      "ban4",
+      "bàn"
+    ],
+    "translation": [
+      "half",
+      "semi-",
+      "incomplete"
+    ]
+  },
+  {
+    "chs": "帮忙",
+    "cht": "幫忙",
+    "pinyin": [
+      "bang1mang2",
+      "bāngmáng"
+    ],
+    "translation": [
+      "to help"
+    ]
+  },
+  {
+    "chs": "包",
+    "cht": "包",
+    "pinyin": [
+      "bao1",
+      "bāo"
+    ],
+    "translation": [
+      "to cover",
+      "to wrap",
+      "to hold",
+      "include",
+      "(mw for containers, packages, etc.)"
+    ]
+  },
+  {
+    "chs": "饱",
+    "cht": "飽",
+    "pinyin": [
+      "bao3",
+      "bǎo"
+    ],
+    "translation": [
+      "eat until full",
+      "satisfied"
+    ]
+  },
+  {
+    "chs": "北方",
+    "cht": "北方",
+    "pinyin": [
+      "bei3fang1",
+      "běifāng"
+    ],
+    "translation": [
+      "north",
+      "the northern part of the country"
+    ]
+  },
+  {
+    "chs": "被",
+    "cht": "被",
+    "pinyin": [
+      "bei4",
+      "bèi"
+    ],
+    "translation": [
+      "by (indicates passive voice sentences)",
+      "a quilt/blanket"
+    ]
+  },
+  {
+    "chs": "鼻子",
+    "cht": "鼻子",
+    "pinyin": [
+      "bi2zi",
+      "bízi"
+    ],
+    "translation": [
+      "nose"
+    ]
+  },
+  {
+    "chs": "比较",
+    "cht": "比較",
+    "pinyin": [
+      "bi3jiao4",
+      "bǐjiào"
+    ],
+    "translation": [
+      "compare",
+      "contrast",
+      "relatively"
+    ]
+  },
+  {
+    "chs": "比赛",
+    "cht": "比賽",
+    "pinyin": [
+      "bi3sai4",
+      "bǐsài"
+    ],
+    "translation": [
+      "(sports) match",
+      "competition"
+    ]
+  },
+  {
+    "chs": "笔记本",
+    "cht": "筆記本",
+    "pinyin": [
+      "bi3ji4ben3",
+      "bǐjìběn"
+    ],
+    "translation": [
+      "notebook"
+    ]
+  },
+  {
+    "chs": "必须",
+    "cht": "必須",
+    "pinyin": [
+      "bi4xu1",
+      "bìxū"
+    ],
+    "translation": [
+      "must",
+      "have to"
+    ]
+  },
+  {
+    "chs": "变化",
+    "cht": "變化",
+    "pinyin": [
+      "bian4hua4",
+      "biànhuà"
+    ],
+    "translation": [
+      "change"
+    ]
+  },
+  {
+    "chs": "别人",
+    "cht": "別人",
+    "pinyin": [
+      "bie2ren",
+      "biéren"
+    ],
+    "translation": [
+      "other people",
+      "others"
+    ]
+  },
+  {
+    "chs": "冰箱",
+    "cht": "冰箱",
+    "pinyin": [
+      "bing1xiang1",
+      "bīngxiāng"
+    ],
+    "translation": [
+      "refrigerator"
+    ]
+  },
+  {
+    "chs": "不但",
+    "cht": "不但",
+    "pinyin": [
+      "bu2dan4",
+      "búdàn"
+    ],
+    "translation": [
+      "not only"
+    ]
+  },
+  {
+    "chs": "而且",
+    "cht": "而且",
+    "pinyin": [
+      "er2qie3",
+      "érqiě"
+    ],
+    "translation": [
+      "moreover",
+      "in addition",
+      "as well as"
+    ]
+  },
+  {
+    "chs": "菜单",
+    "cht": "菜單",
+    "pinyin": [
+      "cai4dan1",
+      "càidān"
+    ],
+    "translation": [
+      "menu"
+    ]
+  },
+  {
+    "chs": "参加",
+    "cht": "參加",
+    "pinyin": [
+      "can1jia1",
+      "cānjiā"
+    ],
+    "translation": [
+      "participate",
+      "join",
+      "take part in"
+    ]
+  },
+  {
+    "chs": "草",
+    "cht": "草",
+    "pinyin": [
+      "cao3",
+      "cǎo"
+    ],
+    "translation": [
+      "grass",
+      "straw",
+      "draft (of a document)"
+    ]
+  },
+  {
+    "chs": "层",
+    "cht": "層",
+    "pinyin": [
+      "ceng2",
+      "céng"
+    ],
+    "translation": [
+      "(mw for layers, floors of buildings)"
+    ]
+  },
+  {
+    "chs": "差",
+    "cht": "差",
+    "pinyin": [
+      "cha4",
+      "chà"
+    ],
+    "translation": [
+      "differ from",
+      "fall short of",
+      "poor",
+      "inferior"
+    ]
+  },
+  {
+    "chs": "超市",
+    "cht": "超市",
+    "pinyin": [
+      "chao1shi4",
+      "chāoshì"
+    ],
+    "translation": [
+      "supermarket"
+    ]
+  },
+  {
+    "chs": "衬衫",
+    "cht": "襯衫",
+    "pinyin": [
+      "chen4shan1",
+      "chènshān"
+    ],
+    "translation": [
+      "shirt",
+      "blouse"
+    ]
+  },
+  {
+    "chs": "成绩",
+    "cht": "成績",
+    "pinyin": [
+      "cheng2ji4",
+      "chéngjì"
+    ],
+    "translation": [
+      "achievement",
+      "success",
+      "results (of work or study)"
+    ]
+  },
+  {
+    "chs": "城市",
+    "cht": "城市",
+    "pinyin": [
+      "cheng2shi4",
+      "chéngshì"
+    ],
+    "translation": [
+      "city or town"
+    ]
+  },
+  {
+    "chs": "迟到",
+    "cht": "遲到",
+    "pinyin": [
+      "chi2dao4",
+      "chídào"
+    ],
+    "translation": [
+      "arrive late"
+    ]
+  },
+  {
+    "chs": "除了",
+    "cht": "除了",
+    "pinyin": [
+      "chu2le",
+      "chúle"
+    ],
+    "translation": [
+      "besides",
+      "except for",
+      "aside from",
+      "in addition to"
+    ]
+  },
+  {
+    "chs": "船",
+    "cht": "船",
+    "pinyin": [
+      "chuan2",
+      "chuán"
+    ],
+    "translation": [
+      "a boat",
+      "vessel",
+      "ship"
+    ]
+  },
+  {
+    "chs": "春",
+    "cht": "春",
+    "pinyin": [
+      "chun1",
+      "chūn"
+    ],
+    "translation": [
+      "spring (season)",
+      "joyful"
+    ]
+  },
+  {
+    "chs": "词典",
+    "cht": "詞典",
+    "pinyin": [
+      "ci2dian3",
+      "cídiǎn"
+    ],
+    "translation": [
+      "dictionary"
+    ]
+  },
+  {
+    "chs": "聪明",
+    "cht": "聰明",
+    "pinyin": [
+      "cong1ming",
+      "cōngming"
+    ],
+    "translation": [
+      "intelligent",
+      "clever",
+      "bright",
+      "smart"
+    ]
+  },
+  {
+    "chs": "打扫",
+    "cht": "打掃",
+    "pinyin": [
+      "da3sao3",
+      "dǎsǎo"
+    ],
+    "translation": [
+      "to clean",
+      "to sweep"
+    ]
+  },
+  {
+    "chs": "打算",
+    "cht": "打算",
+    "pinyin": [
+      "da3suan4",
+      "dǎsuàn"
+    ],
+    "translation": [
+      "to plan",
+      "intend"
+    ]
+  },
+  {
+    "chs": "带",
+    "cht": "帶",
+    "pinyin": [
+      "dai4",
+      "dài"
+    ],
+    "translation": [
+      "band",
+      "belt",
+      "ribbon",
+      "carry",
+      "bring",
+      "take along",
+      "bring up (kids)"
+    ]
+  },
+  {
+    "chs": "担心",
+    "cht": "擔心",
+    "pinyin": [
+      "dan1xin1",
+      "dānxīn"
+    ],
+    "translation": [
+      "to worry",
+      "feel anxious"
+    ]
+  },
+  {
+    "chs": "蛋糕",
+    "cht": "蛋糕",
+    "pinyin": [
+      "dan4gao1",
+      "dàngāo"
+    ],
+    "translation": [
+      "cake"
+    ]
+  },
+  {
+    "chs": "当然",
+    "cht": "當然",
+    "pinyin": [
+      "dang1ran2",
+      "dāngrán"
+    ],
+    "translation": [
+      "of course",
+      "naturally"
+    ]
+  },
+  {
+    "chs": "地",
+    "cht": "地",
+    "pinyin": [
+      "di4,de",
+      "dì,de"
+    ],
+    "translation": [
+      "earth",
+      "ground | (adverbial particle)"
+    ]
+  },
+  {
+    "chs": "灯",
+    "cht": "燈",
+    "pinyin": [
+      "deng1",
+      "dēng"
+    ],
+    "translation": [
+      "lamp",
+      "light"
+    ]
+  },
+  {
+    "chs": "地方",
+    "cht": "地方",
+    "pinyin": [
+      "di4fang",
+      "dìfang"
+    ],
+    "translation": [
+      "place",
+      "space",
+      "room",
+      "part, (fāng: local",
+      "regional)"
+    ]
+  },
+  {
+    "chs": "地铁",
+    "cht": "地鐵",
+    "pinyin": [
+      "di4tie3",
+      "dìtiě"
+    ],
+    "translation": [
+      "subway"
+    ]
+  },
+  {
+    "chs": "地图",
+    "cht": "地圖",
+    "pinyin": [
+      "di4tu2",
+      "dìtú"
+    ],
+    "translation": [
+      "map"
+    ]
+  },
+  {
+    "chs": "电梯",
+    "cht": "電梯",
+    "pinyin": [
+      "dian4ti1",
+      "diàntī"
+    ],
+    "translation": [
+      "elevator"
+    ]
+  },
+  {
+    "chs": "电子邮件",
+    "cht": "電子郵件",
+    "pinyin": [
+      "dian4zi3you2jian4",
+      "diànzǐyóujiàn"
+    ],
+    "translation": [
+      "email"
+    ]
+  },
+  {
+    "chs": "东",
+    "cht": "東",
+    "pinyin": [
+      "dong1",
+      "dōng"
+    ],
+    "translation": [
+      "East"
+    ]
+  },
+  {
+    "chs": "冬",
+    "cht": "冬",
+    "pinyin": [
+      "dong1",
+      "dōng"
+    ],
+    "translation": [
+      "winter"
+    ]
+  },
+  {
+    "chs": "动物",
+    "cht": "動物",
+    "pinyin": [
+      "dong4wu4",
+      "dòngwù"
+    ],
+    "translation": [
+      "animal"
+    ]
+  },
+  {
+    "chs": "短",
+    "cht": "短",
+    "pinyin": [
+      "duan3",
+      "duǎn"
+    ],
+    "translation": [
+      "short (in length, duration, or height)",
+      "lack"
+    ]
+  },
+  {
+    "chs": "段",
+    "cht": "段",
+    "pinyin": [
+      "duan4",
+      "duàn"
+    ],
+    "translation": [
+      "paragraph",
+      "segment",
+      "section"
+    ]
+  },
+  {
+    "chs": "锻炼",
+    "cht": "鍛煉",
+    "pinyin": [
+      "duan4lian4",
+      "duànliàn"
+    ],
+    "translation": [
+      "to exercise",
+      "work out",
+      "toughen",
+      "to temper"
+    ]
+  },
+  {
+    "chs": "多么",
+    "cht": "多麼",
+    "pinyin": [
+      "duo1me",
+      "duōme"
+    ],
+    "translation": [
+      "how (wonderful, etc.)",
+      "what (a great idea)"
+    ]
+  },
+  {
+    "chs": "饿",
+    "cht": "餓",
+    "pinyin": [
+      "e4",
+      "è"
+    ],
+    "translation": [
+      "hungry"
+    ]
+  },
+  {
+    "chs": "耳朵",
+    "cht": "耳朵",
+    "pinyin": [
+      "er3duo",
+      "ěrduo"
+    ],
+    "translation": [
+      "ear"
+    ]
+  },
+  {
+    "chs": "发",
+    "cht": "發",
+    "pinyin": [
+      "fa1,fa4",
+      "fā,fà"
+    ],
+    "translation": [
+      "send out",
+      "to issue",
+      "to show (one's feelings) | hair"
+    ]
+  },
+  {
+    "chs": "发烧",
+    "cht": "發燒",
+    "pinyin": [
+      "fa1shao1",
+      "fāshāo"
+    ],
+    "translation": [
+      "have a fever"
+    ]
+  },
+  {
+    "chs": "发现",
+    "cht": "發現",
+    "pinyin": [
+      "fa1xian4",
+      "fāxiàn"
+    ],
+    "translation": [
+      "discover",
+      "to find"
+    ]
+  },
+  {
+    "chs": "方便",
+    "cht": "方便",
+    "pinyin": [
+      "fang1bian4",
+      "fāngbiàn"
+    ],
+    "translation": [
+      "convenient"
+    ]
+  },
+  {
+    "chs": "放",
+    "cht": "放",
+    "pinyin": [
+      "fang4",
+      "fàng"
+    ],
+    "translation": [
+      "put",
+      "to place",
+      "to release",
+      "to free"
+    ]
+  },
+  {
+    "chs": "放心",
+    "cht": "放心",
+    "pinyin": [
+      "fang4xin1",
+      "fàngxīn"
+    ],
+    "translation": [
+      "relax",
+      "feel relieved",
+      "rest assured"
+    ]
+  },
+  {
+    "chs": "分",
+    "cht": "分",
+    "pinyin": [
+      "fen1,fen4",
+      "fēn,fèn"
+    ],
+    "translation": [
+      "divide",
+      "part",
+      "minute",
+      "cent | component",
+      "share",
+      "ingredient"
+    ]
+  },
+  {
+    "chs": "附近",
+    "cht": "附近",
+    "pinyin": [
+      "fu4jin4",
+      "fùjìn"
+    ],
+    "translation": [
+      "(in the) vicinity",
+      "nearby",
+      "neighboring"
+    ]
+  },
+  {
+    "chs": "复习",
+    "cht": "復習",
+    "pinyin": [
+      "fu4xi2",
+      "fùxí"
+    ],
+    "translation": [
+      "revise",
+      "to review"
+    ]
+  },
+  {
+    "chs": "干净",
+    "cht": "干淨",
+    "pinyin": [
+      "gan1jing4",
+      "gānjìng"
+    ],
+    "translation": [
+      "clean",
+      "neat and tidy"
+    ]
+  },
+  {
+    "chs": "感冒",
+    "cht": "感冒",
+    "pinyin": [
+      "gan3mao4",
+      "gǎnmào"
+    ],
+    "translation": [
+      "catch cold",
+      "(common) cold"
+    ]
+  },
+  {
+    "chs": "感兴趣",
+    "cht": "感興趣",
+    "pinyin": [
+      "gan3xing4qu4",
+      "gǎnxìngqù"
+    ],
+    "translation": [
+      "be interested in"
+    ]
+  },
+  {
+    "chs": "刚才",
+    "cht": "剛才",
+    "pinyin": [
+      "gang1cai2",
+      "gāngcái"
+    ],
+    "translation": [
+      "just now",
+      "a moment ago"
+    ]
+  },
+  {
+    "chs": "个子",
+    "cht": "個子",
+    "pinyin": [
+      "ge4zi",
+      "gèzi"
+    ],
+    "translation": [
+      "height",
+      "stature",
+      "build"
+    ]
+  },
+  {
+    "chs": "根据",
+    "cht": "根據",
+    "pinyin": [
+      "gen1ju4",
+      "gēnjù"
+    ],
+    "translation": [
+      "according to",
+      "based on",
+      "basis"
+    ]
+  },
+  {
+    "chs": "跟",
+    "cht": "跟",
+    "pinyin": [
+      "gen1",
+      "gēn"
+    ],
+    "translation": [
+      "to follow",
+      "go with",
+      "heel"
+    ]
+  },
+  {
+    "chs": "更",
+    "cht": "更",
+    "pinyin": [
+      "geng4",
+      "gèng"
+    ],
+    "translation": [
+      "more",
+      "even more"
+    ]
+  },
+  {
+    "chs": "公斤",
+    "cht": "公斤",
+    "pinyin": [
+      "gong1jin1",
+      "gōngjīn"
+    ],
+    "translation": [
+      "kilogram"
+    ]
+  },
+  {
+    "chs": "公园",
+    "cht": "公園",
+    "pinyin": [
+      "gong1yuan2",
+      "gōngyuán"
+    ],
+    "translation": [
+      "public park"
+    ]
+  },
+  {
+    "chs": "故事",
+    "cht": "故事",
+    "pinyin": [
+      "gu4shi",
+      "gùshi"
+    ],
+    "translation": [
+      "story",
+      "tale"
+    ]
+  },
+  {
+    "chs": "刮风",
+    "cht": "刮風",
+    "pinyin": [
+      "gua1feng1",
+      "guāfēng"
+    ],
+    "translation": [
+      "windy",
+      "to blow (wind)"
+    ]
+  },
+  {
+    "chs": "关",
+    "cht": "關",
+    "pinyin": [
+      "guan1",
+      "guān"
+    ],
+    "translation": [
+      "to close",
+      "shut",
+      "concern",
+      "relationship",
+      "turn off",
+      "mountain pass"
+    ]
+  },
+  {
+    "chs": "关系",
+    "cht": "關系",
+    "pinyin": [
+      "guan1xi",
+      "guānxi"
+    ],
+    "translation": [
+      "relation",
+      "to concern"
+    ]
+  },
+  {
+    "chs": "关心",
+    "cht": "關心",
+    "pinyin": [
+      "guan1xin1",
+      "guānxīn"
+    ],
+    "translation": [
+      "concerned about/with"
+    ]
+  },
+  {
+    "chs": "关于",
+    "cht": "關於",
+    "pinyin": [
+      "guan1yu2",
+      "guānyú"
+    ],
+    "translation": [
+      "about",
+      "regarding",
+      "concerning"
+    ]
+  },
+  {
+    "chs": "国家",
+    "cht": "國家",
+    "pinyin": [
+      "guo2jia1",
+      "guójiā"
+    ],
+    "translation": [
+      "country",
+      "state",
+      "nation"
+    ]
+  },
+  {
+    "chs": "过",
+    "cht": "過",
+    "pinyin": [
+      "guo4",
+      "guò"
+    ],
+    "translation": [
+      "to pass",
+      "to cross",
+      "go over",
+      "(indicates a past experience)"
+    ]
+  },
+  {
+    "chs": "过去",
+    "cht": "過去",
+    "pinyin": [
+      "guo4qu4",
+      "guòqù"
+    ],
+    "translation": [
+      "in the past",
+      "formerly"
+    ]
+  },
+  {
+    "chs": "还是",
+    "cht": "還是",
+    "pinyin": [
+      "hai2shi",
+      "háishi"
+    ],
+    "translation": [
+      "or",
+      "still",
+      "nevertheless",
+      "had better"
+    ]
+  },
+  {
+    "chs": "害怕",
+    "cht": "害怕",
+    "pinyin": [
+      "hai4pa4",
+      "hàipà"
+    ],
+    "translation": [
+      "afraid of",
+      "to fear"
+    ]
+  },
+  {
+    "chs": "黑板",
+    "cht": "黑板",
+    "pinyin": [
+      "hei1ban3",
+      "hēibǎn"
+    ],
+    "translation": [
+      "blackboard"
+    ]
+  },
+  {
+    "chs": "后来",
+    "cht": "後來",
+    "pinyin": [
+      "hou4lai2",
+      "hòulái"
+    ],
+    "translation": [
+      "afterwards",
+      "after",
+      "later"
+    ]
+  },
+  {
+    "chs": "护照",
+    "cht": "護照",
+    "pinyin": [
+      "hu4zhao4",
+      "hùzhào"
+    ],
+    "translation": [
+      "passport"
+    ]
+  },
+  {
+    "chs": "花",
+    "cht": "花",
+    "pinyin": [
+      "hua1",
+      "huā"
+    ],
+    "translation": [
+      "flower",
+      "blossom",
+      "spend money",
+      "cost"
+    ]
+  },
+  {
+    "chs": "画",
+    "cht": "畫",
+    "pinyin": [
+      "hua4",
+      "huà"
+    ],
+    "translation": [
+      "draw",
+      "picture",
+      "painting"
+    ]
+  },
+  {
+    "chs": "坏",
+    "cht": "壞",
+    "pinyin": [
+      "huai4",
+      "huài"
+    ],
+    "translation": [
+      "bad",
+      "broken"
+    ]
+  },
+  {
+    "chs": "欢迎",
+    "cht": "歡迎",
+    "pinyin": [
+      "huan1ying2",
+      "huānyíng"
+    ],
+    "translation": [
+      "to welcome",
+      "greet"
+    ]
+  },
+  {
+    "chs": "还",
+    "cht": "還",
+    "pinyin": [
+      "hai2",
+      "hái"
+    ],
+    "translation": [
+      "still",
+      "yet",
+      "in addition",
+      "even"
+    ]
+  },
+  {
+    "chs": "环境",
+    "cht": "環境",
+    "pinyin": [
+      "huan2jing4",
+      "huánjìng"
+    ],
+    "translation": [
+      "environment",
+      "surroundings"
+    ]
+  },
+  {
+    "chs": "换",
+    "cht": "換",
+    "pinyin": [
+      "huan4",
+      "huàn"
+    ],
+    "translation": [
+      "change",
+      "to exchange",
+      "to barter",
+      "to trade"
+    ]
+  },
+  {
+    "chs": "黄河",
+    "cht": "黃河",
+    "pinyin": [
+      "huang2he2",
+      "huánghé"
+    ],
+    "translation": [
+      "Yellow River"
+    ]
+  },
+  {
+    "chs": "回答",
+    "cht": "回答",
+    "pinyin": [
+      "hui2da2",
+      "huídá"
+    ],
+    "translation": [
+      "to reply",
+      "to answer"
+    ]
+  },
+  {
+    "chs": "会议",
+    "cht": "會議",
+    "pinyin": [
+      "hui4yi4",
+      "huìyì"
+    ],
+    "translation": [
+      "meeting",
+      "conference"
+    ]
+  },
+  {
+    "chs": "或者",
+    "cht": "或者",
+    "pinyin": [
+      "huo4zhe3",
+      "huòzhě"
+    ],
+    "translation": [
+      "or",
+      "possible",
+      "maybe",
+      "perhaps"
+    ]
+  },
+  {
+    "chs": "几乎",
+    "cht": "幾乎",
+    "pinyin": [
+      "ji1hu1",
+      "jīhū"
+    ],
+    "translation": [
+      "almost"
+    ]
+  },
+  {
+    "chs": "机会",
+    "cht": "機會",
+    "pinyin": [
+      "ji1hui4",
+      "jīhuì"
+    ],
+    "translation": [
+      "opportunity",
+      "chance",
+      "occasion"
+    ]
+  },
+  {
+    "chs": "极",
+    "cht": "極",
+    "pinyin": [
+      "ji2",
+      "jí"
+    ],
+    "translation": [
+      "an extreme",
+      "pole",
+      "very"
+    ]
+  },
+  {
+    "chs": "记得",
+    "cht": "記得",
+    "pinyin": [
+      "ji4de",
+      "jìde"
+    ],
+    "translation": [
+      "remember"
+    ]
+  },
+  {
+    "chs": "季节",
+    "cht": "季節",
+    "pinyin": [
+      "ji4jie2",
+      "jìjié"
+    ],
+    "translation": [
+      "season",
+      "time",
+      "period"
+    ]
+  },
+  {
+    "chs": "检查",
+    "cht": "檢查",
+    "pinyin": [
+      "jian3cha2",
+      "jiǎnchá"
+    ],
+    "translation": [
+      "to check",
+      "examine",
+      "inspect"
+    ]
+  },
+  {
+    "chs": "简单",
+    "cht": "簡單",
+    "pinyin": [
+      "jian3dan1",
+      "jiǎndān"
+    ],
+    "translation": [
+      "simple",
+      "not complicated"
+    ]
+  },
+  {
+    "chs": "见面",
+    "cht": "見面",
+    "pinyin": [
+      "jian4mian4",
+      "jiànmiàn"
+    ],
+    "translation": [
+      "meet/see somebody",
+      "meeting"
+    ]
+  },
+  {
+    "chs": "健康",
+    "cht": "健康",
+    "pinyin": [
+      "jian4kang1",
+      "jiànkāng"
+    ],
+    "translation": [
+      "health",
+      "healthy"
+    ]
+  },
+  {
+    "chs": "讲",
+    "cht": "講",
+    "pinyin": [
+      "jiang3",
+      "jiǎng"
+    ],
+    "translation": [
+      "to talk",
+      "to lecture",
+      "to explain",
+      "a speech"
+    ]
+  },
+  {
+    "chs": "教",
+    "cht": "教",
+    "pinyin": [
+      "jiao1,jiao4",
+      "jiāo,jiào"
+    ],
+    "translation": [
+      "teach",
+      "instruct | religion",
+      "teaching"
+    ]
+  },
+  {
+    "chs": "角",
+    "cht": "角",
+    "pinyin": [
+      "jiao3,jue2",
+      "jiǎo,jué"
+    ],
+    "translation": [
+      "horn",
+      "angle",
+      "unit of money (1/10 yuan)",
+      "corner (Kangxi radical 148) | role (theater)"
+    ]
+  },
+  {
+    "chs": "脚",
+    "cht": "腳",
+    "pinyin": [
+      "jiao3",
+      "jiǎo"
+    ],
+    "translation": [
+      "foot (body part)"
+    ]
+  },
+  {
+    "chs": "接",
+    "cht": "接",
+    "pinyin": [
+      "jie1",
+      "jiē"
+    ],
+    "translation": [
+      "connect",
+      "to meet",
+      "to pick up (somebody)",
+      "to receive"
+    ]
+  },
+  {
+    "chs": "街道",
+    "cht": "街道",
+    "pinyin": [
+      "jie1dao4",
+      "jiēdào"
+    ],
+    "translation": [
+      "street"
+    ]
+  },
+  {
+    "chs": "节目",
+    "cht": "節目",
+    "pinyin": [
+      "jie2mu4",
+      "jiémù"
+    ],
+    "translation": [
+      "program",
+      "item (on a program)"
+    ]
+  },
+  {
+    "chs": "节日",
+    "cht": "節日",
+    "pinyin": [
+      "jie2ri4",
+      "jiérì"
+    ],
+    "translation": [
+      "holiday",
+      "festival"
+    ]
+  },
+  {
+    "chs": "结婚",
+    "cht": "結婚",
+    "pinyin": [
+      "jie2hun1",
+      "jiéhūn"
+    ],
+    "translation": [
+      "get married"
+    ]
+  },
+  {
+    "chs": "结束",
+    "cht": "結束",
+    "pinyin": [
+      "jie2shu4",
+      "jiéshù"
+    ],
+    "translation": [
+      "to end",
+      "to finish",
+      "conclude"
+    ]
+  },
+  {
+    "chs": "解决",
+    "cht": "解決",
+    "pinyin": [
+      "jie3jue2",
+      "jiějué"
+    ],
+    "translation": [
+      "settle (a dispute)",
+      "resolve",
+      "solve"
+    ]
+  },
+  {
+    "chs": "借",
+    "cht": "借",
+    "pinyin": [
+      "jie4",
+      "jiè"
+    ],
+    "translation": [
+      "lend",
+      "borrow",
+      "excuse"
+    ]
+  },
+  {
+    "chs": "经常",
+    "cht": "經常",
+    "pinyin": [
+      "jing1chang2",
+      "jīngcháng"
+    ],
+    "translation": [
+      "often",
+      "frequently",
+      "daily"
+    ]
+  },
+  {
+    "chs": "经过",
+    "cht": "經過",
+    "pinyin": [
+      "jing1guo4",
+      "jīngguò"
+    ],
+    "translation": [
+      "to pass",
+      "go through",
+      "as a result of"
+    ]
+  },
+  {
+    "chs": "经理",
+    "cht": "經理",
+    "pinyin": [
+      "jing1li3",
+      "jīnglǐ"
+    ],
+    "translation": [
+      "manager",
+      "director"
+    ]
+  },
+  {
+    "chs": "久",
+    "cht": "久",
+    "pinyin": [
+      "jiu3",
+      "jiǔ"
+    ],
+    "translation": [
+      "long (time)"
+    ]
+  },
+  {
+    "chs": "旧",
+    "cht": "舊",
+    "pinyin": [
+      "jiu4",
+      "jiù"
+    ],
+    "translation": [
+      "old",
+      "past",
+      "used"
+    ]
+  },
+  {
+    "chs": "句子",
+    "cht": "句子",
+    "pinyin": [
+      "ju4zi",
+      "jùzi"
+    ],
+    "translation": [
+      "sentence"
+    ]
+  },
+  {
+    "chs": "决定",
+    "cht": "決定",
+    "pinyin": [
+      "jue2ding4",
+      "juédìng"
+    ],
+    "translation": [
+      "decide",
+      "resolve"
+    ]
+  },
+  {
+    "chs": "可爱",
+    "cht": "可愛",
+    "pinyin": [
+      "ke3ai4",
+      "kěài"
+    ],
+    "translation": [
+      "cute",
+      "lovely"
+    ]
+  },
+  {
+    "chs": "渴",
+    "cht": "渴",
+    "pinyin": [
+      "ke3",
+      "kě"
+    ],
+    "translation": [
+      "thirsty"
+    ]
+  },
+  {
+    "chs": "刻",
+    "cht": "刻",
+    "pinyin": [
+      "ke4",
+      "kè"
+    ],
+    "translation": [
+      "quarter (hour)",
+      "(mw for short time intervals)",
+      "carve",
+      "to cut"
+    ]
+  },
+  {
+    "chs": "客人",
+    "cht": "客人",
+    "pinyin": [
+      "ke4ren2",
+      "kèrén"
+    ],
+    "translation": [
+      "guest",
+      "customer"
+    ]
+  },
+  {
+    "chs": "空调",
+    "cht": "空調",
+    "pinyin": [
+      "kong1tiao2",
+      "kōngtiáo"
+    ],
+    "translation": [
+      "air conditioning"
+    ]
+  },
+  {
+    "chs": "口",
+    "cht": "口",
+    "pinyin": [
+      "kou3",
+      "kǒu"
+    ],
+    "translation": [
+      "mouth (Kangxi radical 30)"
+    ]
+  },
+  {
+    "chs": "哭",
+    "cht": "哭",
+    "pinyin": [
+      "ku1",
+      "kū"
+    ],
+    "translation": [
+      "cry",
+      "weep"
+    ]
+  },
+  {
+    "chs": "裤子",
+    "cht": "褲子",
+    "pinyin": [
+      "ku4zi",
+      "kùzi"
+    ],
+    "translation": [
+      "pants",
+      "trousers"
+    ]
+  },
+  {
+    "chs": "筷子",
+    "cht": "筷子",
+    "pinyin": [
+      "kuai4zi",
+      "kuàizi"
+    ],
+    "translation": [
+      "chopsticks"
+    ]
+  },
+  {
+    "chs": "蓝",
+    "cht": "藍",
+    "pinyin": [
+      "lan2",
+      "lán"
+    ],
+    "translation": [
+      "blue"
+    ]
+  },
+  {
+    "chs": "老",
+    "cht": "老",
+    "pinyin": [
+      "lao3",
+      "lǎo"
+    ],
+    "translation": [
+      "old",
+      "aged",
+      "tough",
+      "often (Kangxi radical 125)"
+    ]
+  },
+  {
+    "chs": "离开",
+    "cht": "離開",
+    "pinyin": [
+      "li2kai1",
+      "líkāi"
+    ],
+    "translation": [
+      "leave",
+      "depart"
+    ]
+  },
+  {
+    "chs": "礼物",
+    "cht": "禮物",
+    "pinyin": [
+      "li3wu4",
+      "lǐwù"
+    ],
+    "translation": [
+      "gift",
+      "present"
+    ]
+  },
+  {
+    "chs": "历史",
+    "cht": "歷史",
+    "pinyin": [
+      "li4shi3",
+      "lìshǐ"
+    ],
+    "translation": [
+      "history"
+    ]
+  },
+  {
+    "chs": "脸",
+    "cht": "臉",
+    "pinyin": [
+      "lian3",
+      "liǎn"
+    ],
+    "translation": [
+      "face"
+    ]
+  },
+  {
+    "chs": "练习",
+    "cht": "練習",
+    "pinyin": [
+      "lian4xi2",
+      "liànxí"
+    ],
+    "translation": [
+      "practice",
+      "exercise"
+    ]
+  },
+  {
+    "chs": "辆",
+    "cht": "輛",
+    "pinyin": [
+      "liang4",
+      "liàng"
+    ],
+    "translation": [
+      "(mw for vehicles)"
+    ]
+  },
+  {
+    "chs": "聊天",
+    "cht": "聊天",
+    "pinyin": [
+      "liao2tian1",
+      "liáotiān"
+    ],
+    "translation": [
+      "to chat"
+    ]
+  },
+  {
+    "chs": "了解",
+    "cht": "了解",
+    "pinyin": [
+      "liao3jie3",
+      "liǎojiě"
+    ],
+    "translation": [
+      "comprehend",
+      "understand",
+      "know",
+      "find out"
+    ]
+  },
+  {
+    "chs": "邻居",
+    "cht": "鄰居",
+    "pinyin": [
+      "lin2ju1",
+      "línjū"
+    ],
+    "translation": [
+      "neighbor"
+    ]
+  },
+  {
+    "chs": "留学",
+    "cht": "留學",
+    "pinyin": [
+      "liu2xue2",
+      "liúxué"
+    ],
+    "translation": [
+      "study abroad"
+    ]
+  },
+  {
+    "chs": "楼",
+    "cht": "樓",
+    "pinyin": [
+      "lou2",
+      "lóu"
+    ],
+    "translation": [
+      "story",
+      "floor",
+      "(multi-story) building"
+    ]
+  },
+  {
+    "chs": "绿",
+    "cht": "綠",
+    "pinyin": [
+      "lv4",
+      "lǜ"
+    ],
+    "translation": [
+      "green"
+    ]
+  },
+  {
+    "chs": "马",
+    "cht": "馬",
+    "pinyin": [
+      "ma3",
+      "mǎ"
+    ],
+    "translation": [
+      "horse (Kangxi radical 187)"
+    ]
+  },
+  {
+    "chs": "马上",
+    "cht": "馬上",
+    "pinyin": [
+      "ma3shang4",
+      "mǎshàng"
+    ],
+    "translation": [
+      "at once",
+      "immediately",
+      "right away"
+    ]
+  },
+  {
+    "chs": "满意",
+    "cht": "滿意",
+    "pinyin": [
+      "man3yi4",
+      "mǎnyì"
+    ],
+    "translation": [
+      "satisfied",
+      "pleased"
+    ]
+  },
+  {
+    "chs": "帽子",
+    "cht": "帽子",
+    "pinyin": [
+      "mao4zi",
+      "màozi"
+    ],
+    "translation": [
+      "hat",
+      "cap"
+    ]
+  },
+  {
+    "chs": "米",
+    "cht": "米",
+    "pinyin": [
+      "mi3",
+      "mǐ"
+    ],
+    "translation": [
+      "rice",
+      "meter (Kangxi radical 119)"
+    ]
+  },
+  {
+    "chs": "面包",
+    "cht": "面包",
+    "pinyin": [
+      "mian4bao1",
+      "miànbāo"
+    ],
+    "translation": [
+      "bread"
+    ]
+  },
+  {
+    "chs": "明白",
+    "cht": "明白",
+    "pinyin": [
+      "ming2bai",
+      "míngbai"
+    ],
+    "translation": [
+      "clear",
+      "obvious",
+      "understand",
+      "explicit"
+    ]
+  },
+  {
+    "chs": "拿",
+    "cht": "拿",
+    "pinyin": [
+      "na2",
+      "ná"
+    ],
+    "translation": [
+      "carry in your hand",
+      "seize",
+      "to catch"
+    ]
+  },
+  {
+    "chs": "奶奶",
+    "cht": "奶奶",
+    "pinyin": [
+      "nai3nai",
+      "nǎinai"
+    ],
+    "translation": [
+      "grandma",
+      "(informal) paternal grandmother"
+    ]
+  },
+  {
+    "chs": "南",
+    "cht": "南",
+    "pinyin": [
+      "nan2",
+      "nán"
+    ],
+    "translation": [
+      "South"
+    ]
+  },
+  {
+    "chs": "难",
+    "cht": "難",
+    "pinyin": [
+      "nan2",
+      "nán"
+    ],
+    "translation": [
+      "difficult"
+    ]
+  },
+  {
+    "chs": "难过",
+    "cht": "難過",
+    "pinyin": [
+      "nan2guo4",
+      "nánguò"
+    ],
+    "translation": [
+      "be grieved",
+      "be sad",
+      "have a hard time"
+    ]
+  },
+  {
+    "chs": "年级",
+    "cht": "年級",
+    "pinyin": [
+      "nian2ji2",
+      "niánjí"
+    ],
+    "translation": [
+      "grade",
+      "year (in school)"
+    ]
+  },
+  {
+    "chs": "年轻",
+    "cht": "年輕",
+    "pinyin": [
+      "nian2qing1",
+      "niánqīng"
+    ],
+    "translation": [
+      "young"
+    ]
+  },
+  {
+    "chs": "鸟",
+    "cht": "鳥",
+    "pinyin": [
+      "niao3",
+      "niǎo"
+    ],
+    "translation": [
+      "bird (Kangxi radical 196)"
+    ]
+  },
+  {
+    "chs": "努力",
+    "cht": "努力",
+    "pinyin": [
+      "nu3li4",
+      "nǔlì"
+    ],
+    "translation": [
+      "to work hard",
+      "to strive"
+    ]
+  },
+  {
+    "chs": "爬山",
+    "cht": "爬山",
+    "pinyin": [
+      "pa2shan1",
+      "páshān"
+    ],
+    "translation": [
+      "mountain climbing"
+    ]
+  },
+  {
+    "chs": "盘子",
+    "cht": "盤子",
+    "pinyin": [
+      "pan2zi",
+      "pánzi"
+    ],
+    "translation": [
+      "plate",
+      "dish",
+      "tray"
+    ]
+  },
+  {
+    "chs": "胖",
+    "cht": "胖",
+    "pinyin": [
+      "pang4",
+      "pàng"
+    ],
+    "translation": [
+      "fat",
+      "plump"
+    ]
+  },
+  {
+    "chs": "皮鞋",
+    "cht": "皮鞋",
+    "pinyin": [
+      "pi2xie2",
+      "píxié"
+    ],
+    "translation": [
+      "leather shoes"
+    ]
+  },
+  {
+    "chs": "啤酒",
+    "cht": "啤酒",
+    "pinyin": [
+      "pi2jiu3",
+      "píjiǔ"
+    ],
+    "translation": [
+      "beer"
+    ]
+  },
+  {
+    "chs": "瓶子",
+    "cht": "瓶子",
+    "pinyin": [
+      "ping2zi",
+      "píngzi"
+    ],
+    "translation": [
+      "bottle"
+    ]
+  },
+  {
+    "chs": "其实",
+    "cht": "其實",
+    "pinyin": [
+      "qi2shi2",
+      "qíshí"
+    ],
+    "translation": [
+      "actually",
+      "in fact"
+    ]
+  },
+  {
+    "chs": "其他",
+    "cht": "其他",
+    "pinyin": [
+      "qi2ta1",
+      "qítā"
+    ],
+    "translation": [
+      "other",
+      "else"
+    ]
+  },
+  {
+    "chs": "奇怪",
+    "cht": "奇怪",
+    "pinyin": [
+      "qi2guai4",
+      "qíguài"
+    ],
+    "translation": [
+      "strange",
+      "odd"
+    ]
+  },
+  {
+    "chs": "骑",
+    "cht": "騎",
+    "pinyin": [
+      "qi2",
+      "qí"
+    ],
+    "translation": [
+      "to ride (an animal or bike)",
+      "to sit astride"
+    ]
+  },
+  {
+    "chs": "起飞",
+    "cht": "起飛",
+    "pinyin": [
+      "qi3fei1",
+      "qǐfēi"
+    ],
+    "translation": [
+      "take off (in an airplane)",
+      "liftoff"
+    ]
+  },
+  {
+    "chs": "起来",
+    "cht": "起來",
+    "pinyin": [
+      "qi3lai",
+      "qǐlai"
+    ],
+    "translation": [
+      "(beginning or continuing an action)",
+      "to rise",
+      "get up (from bed)"
+    ]
+  },
+  {
+    "chs": "清楚",
+    "cht": "清楚",
+    "pinyin": [
+      "qing1chu",
+      "qīngchu"
+    ],
+    "translation": [
+      "clear",
+      "distinct",
+      "be clear about"
+    ]
+  },
+  {
+    "chs": "请假",
+    "cht": "請假",
+    "pinyin": [
+      "qing3jia4",
+      "qǐngjià"
+    ],
+    "translation": [
+      "to ask for time off"
+    ]
+  },
+  {
+    "chs": "秋",
+    "cht": "秋",
+    "pinyin": [
+      "qiu1",
+      "qiū"
+    ],
+    "translation": [
+      "autumn",
+      "fall",
+      "harvest time"
+    ]
+  },
+  {
+    "chs": "裙子",
+    "cht": "裙子",
+    "pinyin": [
+      "qun2zi",
+      "qúnzi"
+    ],
+    "translation": [
+      "skirt"
+    ]
+  },
+  {
+    "chs": "然后",
+    "cht": "然後",
+    "pinyin": [
+      "ran2hou4",
+      "ránhòu"
+    ],
+    "translation": [
+      "then",
+      "afterwards"
+    ]
+  },
+  {
+    "chs": "热情",
+    "cht": "熱情",
+    "pinyin": [
+      "re4qing2",
+      "rèqíng"
+    ],
+    "translation": [
+      "cordial",
+      "warm",
+      "enthusiastic"
+    ]
+  },
+  {
+    "chs": "认为",
+    "cht": "認為",
+    "pinyin": [
+      "ren4wei2",
+      "rènwéi"
+    ],
+    "translation": [
+      "believe",
+      "think that"
+    ]
+  },
+  {
+    "chs": "认真",
+    "cht": "認真",
+    "pinyin": [
+      "ren4zhen1",
+      "rènzhēn"
+    ],
+    "translation": [
+      "serious",
+      "earnest",
+      "take seriously"
+    ]
+  },
+  {
+    "chs": "容易",
+    "cht": "容易",
+    "pinyin": [
+      "rong2yi4",
+      "róngyì"
+    ],
+    "translation": [
+      "easy",
+      "likely",
+      "liable (to)"
+    ]
+  },
+  {
+    "chs": "如果",
+    "cht": "如果",
+    "pinyin": [
+      "ru2guo3",
+      "rúguǒ"
+    ],
+    "translation": [
+      "if",
+      "in the event that"
+    ]
+  },
+  {
+    "chs": "伞",
+    "cht": "傘",
+    "pinyin": [
+      "san3",
+      "sǎn"
+    ],
+    "translation": [
+      "umbrella",
+      "parasol"
+    ]
+  },
+  {
+    "chs": "上网",
+    "cht": "上網",
+    "pinyin": [
+      "shang4wang3",
+      "shàngwǎng"
+    ],
+    "translation": [
+      "to surf the web",
+      "to go online"
+    ]
+  },
+  {
+    "chs": "生气",
+    "cht": "生氣",
+    "pinyin": [
+      "sheng1qi4",
+      "shēngqì"
+    ],
+    "translation": [
+      "angry",
+      "mad"
+    ]
+  },
+  {
+    "chs": "声音",
+    "cht": "聲音",
+    "pinyin": [
+      "sheng1yin1",
+      "shēngyīn"
+    ],
+    "translation": [
+      "sound",
+      "voice"
+    ]
+  },
+  {
+    "chs": "世界",
+    "cht": "世界",
+    "pinyin": [
+      "shi4jie4",
+      "shìjiè"
+    ],
+    "translation": [
+      "world"
+    ]
+  },
+  {
+    "chs": "试",
+    "cht": "試",
+    "pinyin": [
+      "shi4",
+      "shì"
+    ],
+    "translation": [
+      "to try",
+      "to test",
+      "examination"
+    ]
+  },
+  {
+    "chs": "瘦",
+    "cht": "瘦",
+    "pinyin": [
+      "shou4",
+      "shòu"
+    ],
+    "translation": [
+      "thin",
+      "tight",
+      "lean"
+    ]
+  },
+  {
+    "chs": "叔叔",
+    "cht": "叔叔",
+    "pinyin": [
+      "shu1shu",
+      "shūshu"
+    ],
+    "translation": [
+      "(informal) father's younger brother",
+      "uncle"
+    ]
+  },
+  {
+    "chs": "舒服",
+    "cht": "舒服",
+    "pinyin": [
+      "shu1fu",
+      "shūfu"
+    ],
+    "translation": [
+      "comfortable",
+      "feeling well"
+    ]
+  },
+  {
+    "chs": "树",
+    "cht": "樹",
+    "pinyin": [
+      "shu4",
+      "shù"
+    ],
+    "translation": [
+      "tree"
+    ]
+  },
+  {
+    "chs": "数学",
+    "cht": "數學",
+    "pinyin": [
+      "shu4xue2",
+      "shùxué"
+    ],
+    "translation": [
+      "mathematics"
+    ]
+  },
+  {
+    "chs": "刷牙",
+    "cht": "刷牙",
+    "pinyin": [
+      "shua1ya2",
+      "shuāyá"
+    ],
+    "translation": [
+      "brush one's teeth"
+    ]
+  },
+  {
+    "chs": "双",
+    "cht": "雙",
+    "pinyin": [
+      "shuang1",
+      "shuāng"
+    ],
+    "translation": [
+      "two",
+      "double",
+      "(mw for pairs)"
+    ]
+  },
+  {
+    "chs": "水平",
+    "cht": "水平",
+    "pinyin": [
+      "shui3ping2",
+      "shuǐpíng"
+    ],
+    "translation": [
+      "level",
+      "standard",
+      "horizontal"
+    ]
+  },
+  {
+    "chs": "司机",
+    "cht": "司機",
+    "pinyin": [
+      "si1ji1",
+      "sījī"
+    ],
+    "translation": [
+      "driver",
+      "chauffeur"
+    ]
+  },
+  {
+    "chs": "太阳",
+    "cht": "太陽",
+    "pinyin": [
+      "tai4yang2",
+      "tàiyáng"
+    ],
+    "translation": [
+      "the sun"
+    ]
+  },
+  {
+    "chs": "特别",
+    "cht": "特別",
+    "pinyin": [
+      "te4bie2",
+      "tèbié"
+    ],
+    "translation": [
+      "special",
+      "especially",
+      "particular"
+    ]
+  },
+  {
+    "chs": "疼",
+    "cht": "疼",
+    "pinyin": [
+      "teng2",
+      "téng"
+    ],
+    "translation": [
+      "ache",
+      "sore",
+      "(it) hurts",
+      "love fondly"
+    ]
+  },
+  {
+    "chs": "提高",
+    "cht": "提高",
+    "pinyin": [
+      "ti2gao1",
+      "tígāo"
+    ],
+    "translation": [
+      "to raise",
+      "heighten",
+      "improve"
+    ]
+  },
+  {
+    "chs": "体育",
+    "cht": "體育",
+    "pinyin": [
+      "ti3yu4",
+      "tǐyù"
+    ],
+    "translation": [
+      "physical training",
+      "sports"
+    ]
+  },
+  {
+    "chs": "甜",
+    "cht": "甜",
+    "pinyin": [
+      "tian2",
+      "tián"
+    ],
+    "translation": [
+      "sweet"
+    ]
+  },
+  {
+    "chs": "条",
+    "cht": "條",
+    "pinyin": [
+      "tiao2",
+      "tiáo"
+    ],
+    "translation": [
+      "strip",
+      "(mw for long thin objects)",
+      "item"
+    ]
+  },
+  {
+    "chs": "同事",
+    "cht": "同事",
+    "pinyin": [
+      "tong2shi4",
+      "tóngshì"
+    ],
+    "translation": [
+      "colleague",
+      "co-worker"
+    ]
+  },
+  {
+    "chs": "同意",
+    "cht": "同意",
+    "pinyin": [
+      "tong2yi4",
+      "tóngyì"
+    ],
+    "translation": [
+      "agree",
+      "to consent",
+      "approve"
+    ]
+  },
+  {
+    "chs": "头发",
+    "cht": "頭發",
+    "pinyin": [
+      "tou2fa",
+      "tóufa"
+    ],
+    "translation": [
+      "hair (on the head)"
+    ]
+  },
+  {
+    "chs": "突然",
+    "cht": "突然",
+    "pinyin": [
+      "tu1ran2",
+      "tūrán"
+    ],
+    "translation": [
+      "sudden",
+      "abrupt"
+    ]
+  },
+  {
+    "chs": "图书馆",
+    "cht": "圖書館",
+    "pinyin": [
+      "tu2shu1guan3",
+      "túshūguǎn"
+    ],
+    "translation": [
+      "library"
+    ]
+  },
+  {
+    "chs": "腿",
+    "cht": "腿",
+    "pinyin": [
+      "tui3",
+      "tuǐ"
+    ],
+    "translation": [
+      "leg"
+    ]
+  },
+  {
+    "chs": "完成",
+    "cht": "完成",
+    "pinyin": [
+      "wan2cheng2",
+      "wánchéng"
+    ],
+    "translation": [
+      "to complete",
+      "accomplish",
+      "to fulfill"
+    ]
+  },
+  {
+    "chs": "碗",
+    "cht": "碗",
+    "pinyin": [
+      "wan3",
+      "wǎn"
+    ],
+    "translation": [
+      "bowl",
+      "cup"
+    ]
+  },
+  {
+    "chs": "万",
+    "cht": "萬",
+    "pinyin": [
+      "wan4",
+      "wàn"
+    ],
+    "translation": [
+      "ten thousand"
+    ]
+  },
+  {
+    "chs": "忘记",
+    "cht": "忘記",
+    "pinyin": [
+      "wang4ji4",
+      "wàngjì"
+    ],
+    "translation": [
+      "forget"
+    ]
+  },
+  {
+    "chs": "为",
+    "cht": "為",
+    "pinyin": [
+      "wei4",
+      "wèi"
+    ],
+    "translation": [
+      "for",
+      "because of",
+      "to",
+      "for the sake of"
+    ]
+  },
+  {
+    "chs": "为了",
+    "cht": "為了",
+    "pinyin": [
+      "wei4le",
+      "wèile"
+    ],
+    "translation": [
+      "in order to",
+      "for the sake of",
+      "for the purpose of"
+    ]
+  },
+  {
+    "chs": "位",
+    "cht": "位",
+    "pinyin": [
+      "wei4",
+      "wèi"
+    ],
+    "translation": [
+      "position",
+      "location",
+      "(polite mw for people)"
+    ]
+  },
+  {
+    "chs": "文化",
+    "cht": "文化",
+    "pinyin": [
+      "wen2hua4",
+      "wénhuà"
+    ],
+    "translation": [
+      "culture",
+      "civilization"
+    ]
+  },
+  {
+    "chs": "西",
+    "cht": "西",
+    "pinyin": [
+      "xi1",
+      "xī"
+    ],
+    "translation": [
+      "West (Kangxi radical 146)"
+    ]
+  },
+  {
+    "chs": "习惯",
+    "cht": "習慣",
+    "pinyin": [
+      "xi2guan4",
+      "xíguàn"
+    ],
+    "translation": [
+      "habit",
+      "be accustomed to",
+      "usual practice"
+    ]
+  },
+  {
+    "chs": "洗手间",
+    "cht": "洗手間",
+    "pinyin": [
+      "xi3shou3jian1",
+      "xǐshǒujiān"
+    ],
+    "translation": [
+      "toilet",
+      "lavatory",
+      "washroom"
+    ]
+  },
+  {
+    "chs": "洗澡",
+    "cht": "洗澡",
+    "pinyin": [
+      "xi3zao3",
+      "xǐzǎo"
+    ],
+    "translation": [
+      "bathe",
+      "take a bath or shower",
+      "bath or shower"
+    ]
+  },
+  {
+    "chs": "夏",
+    "cht": "夏",
+    "pinyin": [
+      "xia4",
+      "xià"
+    ],
+    "translation": [
+      "summer"
+    ]
+  },
+  {
+    "chs": "先",
+    "cht": "先",
+    "pinyin": [
+      "xian1",
+      "xiān"
+    ],
+    "translation": [
+      "first",
+      "early",
+      "before"
+    ]
+  },
+  {
+    "chs": "相信",
+    "cht": "相信",
+    "pinyin": [
+      "xiang1xin4",
+      "xiāngxìn"
+    ],
+    "translation": [
+      "believe (sb.)",
+      "be convinced of"
+    ]
+  },
+  {
+    "chs": "香蕉",
+    "cht": "香蕉",
+    "pinyin": [
+      "xiang1jiao1",
+      "xiāngjiāo"
+    ],
+    "translation": [
+      "banana"
+    ]
+  },
+  {
+    "chs": "向",
+    "cht": "向",
+    "pinyin": [
+      "xiang4",
+      "xiàng"
+    ],
+    "translation": [
+      "direction",
+      "towards",
+      "to turn",
+      "to face"
+    ]
+  },
+  {
+    "chs": "像",
+    "cht": "像",
+    "pinyin": [
+      "xiang4",
+      "xiàng"
+    ],
+    "translation": [
+      "be like",
+      "resemble",
+      "appearance",
+      "appear"
+    ]
+  },
+  {
+    "chs": "小心",
+    "cht": "小心",
+    "pinyin": [
+      "xiao3xin1",
+      "xiǎoxīn"
+    ],
+    "translation": [
+      "be careful"
+    ]
+  },
+  {
+    "chs": "校长",
+    "cht": "校長",
+    "pinyin": [
+      "xiao4zhang3",
+      "xiàozhǎng"
+    ],
+    "translation": [
+      "principal (of school, college or university)",
+      "president",
+      "headmaster"
+    ]
+  },
+  {
+    "chs": "新闻",
+    "cht": "新聞",
+    "pinyin": [
+      "xin1wen2",
+      "xīnwén"
+    ],
+    "translation": [
+      "news"
+    ]
+  },
+  {
+    "chs": "新鲜",
+    "cht": "新鮮",
+    "pinyin": [
+      "xin1xian1",
+      "xīnxiān"
+    ],
+    "translation": [
+      "fresh (experience, food, etc.)",
+      "new",
+      "novel"
+    ]
+  },
+  {
+    "chs": "信用卡",
+    "cht": "信用卡",
+    "pinyin": [
+      "xin4yong4ka3",
+      "xìnyòngkǎ"
+    ],
+    "translation": [
+      "credit card"
+    ]
+  },
+  {
+    "chs": "行李箱",
+    "cht": "行李箱",
+    "pinyin": [
+      "xing2li3xiang1",
+      "xínglǐxiāng"
+    ],
+    "translation": [
+      "trunk",
+      "suitcase"
+    ]
+  },
+  {
+    "chs": "熊猫",
+    "cht": "熊貓",
+    "pinyin": [
+      "xiong2mao1",
+      "xióngmāo"
+    ],
+    "translation": [
+      "panda"
+    ]
+  },
+  {
+    "chs": "需要",
+    "cht": "需要",
+    "pinyin": [
+      "xu1yao4",
+      "xūyào"
+    ],
+    "translation": [
+      "to need",
+      "to want",
+      "to demand"
+    ]
+  },
+  {
+    "chs": "选择",
+    "cht": "選擇",
+    "pinyin": [
+      "xuan3ze2",
+      "xuǎnzé"
+    ],
+    "translation": [
+      "select",
+      "to pick",
+      "choose"
+    ]
+  },
+  {
+    "chs": "要求",
+    "cht": "要求",
+    "pinyin": [
+      "yao1qiu2",
+      "yāoqiú"
+    ],
+    "translation": [
+      "to request",
+      "to demand",
+      "requirement"
+    ]
+  },
+  {
+    "chs": "爷爷",
+    "cht": "爺爺",
+    "pinyin": [
+      "ye2ye",
+      "yéye"
+    ],
+    "translation": [
+      "(informal) father's father",
+      "paternal grandfather"
+    ]
+  },
+  {
+    "chs": "一般",
+    "cht": "一般",
+    "pinyin": [
+      "yi4ban1",
+      "yìbān"
+    ],
+    "translation": [
+      "general",
+      "ordinary",
+      "common",
+      "same"
+    ]
+  },
+  {
+    "chs": "一边",
+    "cht": "一邊",
+    "pinyin": [
+      "yi4bian1",
+      "yìbiān"
+    ],
+    "translation": [
+      "one side",
+      "on the one hand",
+      "at the same time"
+    ]
+  },
+  {
+    "chs": "一定",
+    "cht": "一定",
+    "pinyin": [
+      "yi2ding4",
+      "yídìng"
+    ],
+    "translation": [
+      "surely",
+      "certainly",
+      "necessarily",
+      "definite"
+    ]
+  },
+  {
+    "chs": "一共",
+    "cht": "一共",
+    "pinyin": [
+      "yi2gong4",
+      "yígòng"
+    ],
+    "translation": [
+      "altogether",
+      "in total"
+    ]
+  },
+  {
+    "chs": "一会儿",
+    "cht": "一會兒",
+    "pinyin": [
+      "yi2hui4r",
+      "yíhuìr"
+    ],
+    "translation": [
+      "a while",
+      "a moment"
+    ]
+  },
+  {
+    "chs": "一样",
+    "cht": "一樣",
+    "pinyin": [
+      "yi2yang4",
+      "yíyàng"
+    ],
+    "translation": [
+      "the same",
+      "alike",
+      "equal to"
+    ]
+  },
+  {
+    "chs": "一直",
+    "cht": "一直",
+    "pinyin": [
+      "yi4zhi2",
+      "yìzhí"
+    ],
+    "translation": [
+      "always",
+      "all along",
+      "straight (in a straight line)"
+    ]
+  },
+  {
+    "chs": "以前",
+    "cht": "以前",
+    "pinyin": [
+      "yi3qian2",
+      "yǐqián"
+    ],
+    "translation": [
+      "before",
+      "formerly",
+      "previous"
+    ]
+  },
+  {
+    "chs": "音乐",
+    "cht": "音樂",
+    "pinyin": [
+      "yin1yue4",
+      "yīnyuè"
+    ],
+    "translation": [
+      "music"
+    ]
+  },
+  {
+    "chs": "银行",
+    "cht": "銀行",
+    "pinyin": [
+      "yin2hang2",
+      "yínháng"
+    ],
+    "translation": [
+      "bank"
+    ]
+  },
+  {
+    "chs": "饮料",
+    "cht": "飲料",
+    "pinyin": [
+      "yin3liao4",
+      "yǐnliào"
+    ],
+    "translation": [
+      "beverage",
+      "drink"
+    ]
+  },
+  {
+    "chs": "应该",
+    "cht": "應該",
+    "pinyin": [
+      "ying1gai1",
+      "yīnggāi"
+    ],
+    "translation": [
+      "should",
+      "ought to",
+      "must"
+    ]
+  },
+  {
+    "chs": "影响",
+    "cht": "影響",
+    "pinyin": [
+      "ying3xiang3",
+      "yǐngxiǎng"
+    ],
+    "translation": [
+      "influence",
+      "affect",
+      "effect"
+    ]
+  },
+  {
+    "chs": "用",
+    "cht": "用",
+    "pinyin": [
+      "yong4",
+      "yòng"
+    ],
+    "translation": [
+      "to use (Kangxi radical 101)"
+    ]
+  },
+  {
+    "chs": "游戏",
+    "cht": "游戲",
+    "pinyin": [
+      "you2xi4",
+      "yóuxì"
+    ],
+    "translation": [
+      "game",
+      "play",
+      "recreation"
+    ]
+  },
+  {
+    "chs": "有名",
+    "cht": "有名",
+    "pinyin": [
+      "you3ming2",
+      "yǒumíng"
+    ],
+    "translation": [
+      "famous",
+      "well-known"
+    ]
+  },
+  {
+    "chs": "又",
+    "cht": "又",
+    "pinyin": [
+      "you4",
+      "yòu"
+    ],
+    "translation": [
+      "(once) again",
+      "also",
+      "both (Kangxi radical 29)"
+    ]
+  },
+  {
+    "chs": "遇到",
+    "cht": "遇到",
+    "pinyin": [
+      "yu4dao4",
+      "yùdào"
+    ],
+    "translation": [
+      "to meet",
+      "run into",
+      "come across"
+    ]
+  },
+  {
+    "chs": "元",
+    "cht": "元",
+    "pinyin": [
+      "yuan2",
+      "yuán"
+    ],
+    "translation": [
+      "Chinese monetary unit",
+      "dollar",
+      "first",
+      "principal"
+    ]
+  },
+  {
+    "chs": "愿意",
+    "cht": "願意",
+    "pinyin": [
+      "yuan4yi4",
+      "yuànyì"
+    ],
+    "translation": [
+      "be willing",
+      "want to",
+      "be ready"
+    ]
+  },
+  {
+    "chs": "月亮",
+    "cht": "月亮",
+    "pinyin": [
+      "yue4liang",
+      "yuèliang"
+    ],
+    "translation": [
+      "the moon"
+    ]
+  },
+  {
+    "chs": "越",
+    "cht": "越",
+    "pinyin": [
+      "yue4",
+      "yuè"
+    ],
+    "translation": [
+      "even more",
+      "the more",
+      "exceed"
+    ]
+  },
+  {
+    "chs": "站",
+    "cht": "站",
+    "pinyin": [
+      "zhan4",
+      "zhàn"
+    ],
+    "translation": [
+      "stand",
+      "a station",
+      "be on one's feet",
+      "service center"
+    ]
+  },
+  {
+    "chs": "张",
+    "cht": "張",
+    "pinyin": [
+      "zhang1",
+      "zhāng"
+    ],
+    "translation": [
+      "(mw for flat objects)",
+      "to spread out",
+      "(common surname)"
+    ]
+  },
+  {
+    "chs": "长",
+    "cht": "長",
+    "pinyin": [
+      "chang2,zhang3",
+      "cháng,zhǎng"
+    ],
+    "translation": [
+      "long",
+      "length | grow",
+      "chief (Kangxi radical 168)"
+    ]
+  },
+  {
+    "chs": "着急",
+    "cht": "著急",
+    "pinyin": [
+      "zhao2ji2",
+      "zháojí"
+    ],
+    "translation": [
+      "to worry",
+      "feel anxious"
+    ]
+  },
+  {
+    "chs": "照顾",
+    "cht": "照顧",
+    "pinyin": [
+      "zhao4gu",
+      "zhàogu"
+    ],
+    "translation": [
+      "take care of",
+      "look after",
+      "give consideration"
+    ]
+  },
+  {
+    "chs": "照片",
+    "cht": "照片",
+    "pinyin": [
+      "zhao4pian4",
+      "zhàopiàn"
+    ],
+    "translation": [
+      "picture",
+      "photograph"
+    ]
+  },
+  {
+    "chs": "照相机",
+    "cht": "照相機",
+    "pinyin": [
+      "zhao4xiang4ji1",
+      "zhàoxiàngjī"
+    ],
+    "translation": [
+      "camera"
+    ]
+  },
+  {
+    "chs": "只",
+    "cht": "隻",
+    "pinyin": [
+      "zhi1,zhi3",
+      "zhī,zhǐ"
+    ],
+    "translation": [
+      "but",
+      "only",
+      "merely",
+      "just | (mw for birds and certain animals)"
+    ]
+  },
+  {
+    "chs": "只有",
+    "cht": "隻有",
+    "pinyin": [
+      "zhi3you3",
+      "zhǐyǒu"
+    ],
+    "translation": [
+      "only"
+    ]
+  },
+  {
+    "chs": "才",
+    "cht": "才",
+    "pinyin": [
+      "cai2",
+      "cái"
+    ],
+    "translation": [
+      "ability",
+      "talent",
+      "just now",
+      "not until"
+    ]
+  },
+  {
+    "chs": "中间",
+    "cht": "中間",
+    "pinyin": [
+      "zhong1jian1",
+      "zhōngjiān"
+    ],
+    "translation": [
+      "center",
+      "middle",
+      "between",
+      "among"
+    ]
+  },
+  {
+    "chs": "中文",
+    "cht": "中文",
+    "pinyin": [
+      "zhong1wen2",
+      "zhōngwén"
+    ],
+    "translation": [
+      "Chinese (language)"
+    ]
+  },
+  {
+    "chs": "终于",
+    "cht": "終於",
+    "pinyin": [
+      "zhong1yu2",
+      "zhōngyú"
+    ],
+    "translation": [
+      "at last",
+      "in the end",
+      "finally"
+    ]
+  },
+  {
+    "chs": "种",
+    "cht": "種",
+    "pinyin": [
+      "zhong3",
+      "zhǒng"
+    ],
+    "translation": [
+      "type",
+      "breed",
+      "race",
+      "seed"
+    ]
+  },
+  {
+    "chs": "重要",
+    "cht": "重要",
+    "pinyin": [
+      "zhong4yao4",
+      "zhòngyào"
+    ],
+    "translation": [
+      "important",
+      "significant",
+      "major"
+    ]
+  },
+  {
+    "chs": "周末",
+    "cht": "周末",
+    "pinyin": [
+      "zhou1mo4",
+      "zhōumò"
+    ],
+    "translation": [
+      "weekend"
+    ]
+  },
+  {
+    "chs": "主要",
+    "cht": "主要",
+    "pinyin": [
+      "zhu3yao4",
+      "zhǔyào"
+    ],
+    "translation": [
+      "main",
+      "principal",
+      "major"
+    ]
+  },
+  {
+    "chs": "注意",
+    "cht": "注意",
+    "pinyin": [
+      "zhu4yi4",
+      "zhùyì"
+    ],
+    "translation": [
+      "pay attention to",
+      "take notice of",
+      "be careful"
+    ]
+  },
+  {
+    "chs": "自己",
+    "cht": "自己",
+    "pinyin": [
+      "zi4ji3",
+      "zìjǐ"
+    ],
+    "translation": [
+      "oneself",
+      "self"
+    ]
+  },
+  {
+    "chs": "自行车",
+    "cht": "自行車",
+    "pinyin": [
+      "zi4xing2che1",
+      "zìxíngchē"
+    ],
+    "translation": [
+      "bike",
+      "bicycle"
+    ]
+  },
+  {
+    "chs": "总是",
+    "cht": "總是",
+    "pinyin": [
+      "zong3shi4",
+      "zǒngshì"
+    ],
+    "translation": [
+      "always",
+      "eventually"
+    ]
+  },
+  {
+    "chs": "嘴",
+    "cht": "嘴",
+    "pinyin": [
+      "zui3",
+      "zuǐ"
+    ],
+    "translation": [
+      "mouth"
+    ]
+  },
+  {
+    "chs": "最后",
+    "cht": "最後",
+    "pinyin": [
+      "zui4hou4",
+      "zuìhòu"
+    ],
+    "translation": [
+      "last",
+      "final",
+      "ultimately"
+    ]
+  },
+  {
+    "chs": "最近",
+    "cht": "最近",
+    "pinyin": [
+      "zui4jin4",
+      "zuìjìn"
+    ],
+    "translation": [
+      "recently",
+      "lately",
+      "these days"
+    ]
+  },
+  {
+    "chs": "作业",
+    "cht": "作業",
+    "pinyin": [
+      "zuo4ye4",
+      "zuòyè"
+    ],
+    "translation": [
+      "school assignment",
+      "homework",
+      "task"
+    ]
+  }
+]

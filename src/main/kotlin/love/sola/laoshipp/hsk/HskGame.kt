@@ -1,0 +1,131 @@
+package love.sola.laoshipp.hsk
+
+import dev.minn.jda.ktx.coroutines.await
+import dev.minn.jda.ktx.messages.Message
+import kotlinx.coroutines.delay
+import net.dv8tion.jda.api.entities.GuildMessageChannel
+import java.awt.Color
+import java.net.URLEncoder
+import java.util.concurrent.ConcurrentHashMap
+import java.util.concurrent.atomic.AtomicBoolean
+import kotlin.time.Duration.Companion.seconds
+
+class HskGame(
+    private val channel: GuildMessageChannel,
+    private val options: HskGameOptions
+) {
+    private val started = AtomicBoolean(false)
+    private val running = AtomicBoolean(false)
+    private val canceled = AtomicBoolean(false)
+
+    fun isRunning() = running.get()
+    fun cancel() = canceled.set(true)
+    fun isCanceled() = canceled.get()
+
+    private var round = 0
+    private lateinit var word: Word
+
+    private val scores = mutableMapOf<HskPlayer, Int>()
+    private val answers = ConcurrentHashMap<HskPlayer, String>()
+
+    suspend fun run() {
+        if (!started.compareAndSet(false, true)) {
+            throw IllegalStateException("That game already started!")
+        }
+        running.set(true)
+        try {
+            repeat(options.rounds) {
+                delay(3.seconds) // brief period
+                round()
+                delay(options.delay.seconds)
+                judge()
+                if (isCanceled()) return
+            }
+        } finally {
+            running.set(false)
+            HskGameManager.remove(channel)
+        }
+    }
+
+    private suspend fun round() {
+        round++
+        word = Dictionary[options.level].random()
+        channel.sendMessage(roundStartMessage()).await()
+    }
+
+    fun updateAnswer(player: HskPlayer, answer: String) {
+        answers[player] = answer
+    }
+
+    private suspend fun judge() {
+        val result = answers.mapValues { (_, v) -> word.judge(v) }
+        result.entries.forEach { (p, a) ->
+            scores.compute(p) { _, v -> (v ?: 0) + if (a) 1 else 0 }
+        }
+        channel.sendMessage(roundEndMessage(result)).await()
+        answers.clear()
+    }
+
+    private fun Word.judge(answer: String) = answer in pinyin || answer in translation
+
+    private fun roundStartMessage() = Message {
+        embed {
+            title = "Round #$round / ${options.rounds}"
+            description =
+                """To play, type the translation for the following character in pinyin or english."""
+            color = Color.GREEN.rgb
+            field {
+                name = "Characters (Simplified/Traditional)"
+                value = "${word.chs} / ${word.cht}"
+            }
+        }
+    }
+
+    private fun roundEndMessage(results: Map<HskPlayer, Boolean>) = Message {
+        embed {
+            title = "Round #$round - Complete"
+            color = Color.YELLOW.rgb
+            field {
+                name = "Characters (Simplified/Traditional)"
+                value = "${word.chs} / ${word.cht}"
+            }
+            field {
+                name = "Pinyin"
+                value = word.pinyin.joinToString(" / ")
+            }
+            field {
+                name = "Translations"
+                value = word.translation.joinToString(", ")
+            }
+            field {
+                name = "Tools"
+                value = "[Example Sentences](${naverLink(word.chs)})"
+            }
+            field {
+                name = "Results"
+                value = scores.entries.sortedByDescending(Map.Entry<HskPlayer, Int>::value)
+                    .joinToString(separator = "\n") { (k, v) ->
+                        val icon = when (results[k]) {
+                            true -> ":white_check_mark:"
+                            false -> ":negative_squared_cross_mark:"
+                            null -> ":white_large_square:"
+                        }
+                        "$icon [$v] ${k.name}"
+                    }
+                inline = false
+            }
+            footer {
+                name = if (round == options.rounds || isCanceled()) {
+                    "This was the last round."
+                } else {
+                    "Next round will begin shortly; use /hskstop to quit."
+                }
+            }
+        }
+    }
+}
+
+private fun naverLink(word: String): String {
+    return "https://dict.naver.com/linedict/zhendict/dict.html#/cnen/example?query=" +
+            URLEncoder.encode(word, Charsets.UTF_8)
+}

@@ -1,0 +1,1774 @@
+[
+  {
+    "chs": "爱",
+    "cht": "愛",
+    "pinyin": [
+      "ai4",
+      "ài"
+    ],
+    "translation": [
+      "love"
+    ]
+  },
+  {
+    "chs": "八",
+    "cht": "八",
+    "pinyin": [
+      "ba1",
+      "bā"
+    ],
+    "translation": [
+      "eight"
+    ]
+  },
+  {
+    "chs": "爸爸",
+    "cht": "爸爸",
+    "pinyin": [
+      "ba4ba",
+      "bàba"
+    ],
+    "translation": [
+      "dad",
+      "father"
+    ]
+  },
+  {
+    "chs": "杯子",
+    "cht": "杯子",
+    "pinyin": [
+      "bei1zi",
+      "bēizi"
+    ],
+    "translation": [
+      "cup",
+      "glass"
+    ]
+  },
+  {
+    "chs": "北京",
+    "cht": "北京",
+    "pinyin": [
+      "bei3jing1",
+      "běijīng"
+    ],
+    "translation": [
+      "beijing"
+    ]
+  },
+  {
+    "chs": "本",
+    "cht": "本",
+    "pinyin": [
+      "ben3",
+      "běn"
+    ],
+    "translation": [
+      "measure word for books",
+      "book"
+    ]
+  },
+  {
+    "chs": "不客气",
+    "cht": "不客氣",
+    "pinyin": [
+      "bu2ke4qi",
+      "búkèqi"
+    ],
+    "translation": [
+      "you're welcome",
+      "don't be polite"
+    ]
+  },
+  {
+    "chs": "不",
+    "cht": "不",
+    "pinyin": [
+      "bu4",
+      "bù"
+    ],
+    "translation": [
+      "no",
+      "not"
+    ]
+  },
+  {
+    "chs": "菜",
+    "cht": "菜",
+    "pinyin": [
+      "cai4",
+      "cài"
+    ],
+    "translation": [
+      "dish",
+      "vegetables"
+    ]
+  },
+  {
+    "chs": "茶",
+    "cht": "茶",
+    "pinyin": [
+      "cha2",
+      "chá"
+    ],
+    "translation": [
+      "tea"
+    ]
+  },
+  {
+    "chs": "吃",
+    "cht": "吃",
+    "pinyin": [
+      "chi1",
+      "chī"
+    ],
+    "translation": [
+      "eat"
+    ]
+  },
+  {
+    "chs": "出租车",
+    "cht": "出租車",
+    "pinyin": [
+      "chu1zu1che1",
+      "chūzūchē"
+    ],
+    "translation": [
+      "taxi",
+      "cab"
+    ]
+  },
+  {
+    "chs": "打电话",
+    "cht": "打電話",
+    "pinyin": [
+      "da3dian4hua4",
+      "dǎdiànhuà"
+    ],
+    "translation": [
+      "make a phone call",
+      "phone call"
+    ]
+  },
+  {
+    "chs": "大",
+    "cht": "大",
+    "pinyin": [
+      "da4",
+      "dà"
+    ],
+    "translation": [
+      "big",
+      "large"
+    ]
+  },
+  {
+    "chs": "的",
+    "cht": "的",
+    "pinyin": [
+      "de",
+      "de"
+    ],
+    "translation": [
+      "indicates possession, like adding 's to a noun"
+    ]
+  },
+  {
+    "chs": "点",
+    "cht": "點",
+    "pinyin": [
+      "dian3",
+      "diǎn"
+    ],
+    "translation": [
+      "a dot",
+      "a little",
+      "o'clock"
+    ]
+  },
+  {
+    "chs": "电脑",
+    "cht": "電腦",
+    "pinyin": [
+      "dian4nao3",
+      "diànnǎo"
+    ],
+    "translation": [
+      "computer"
+    ]
+  },
+  {
+    "chs": "电视",
+    "cht": "電視",
+    "pinyin": [
+      "dian4shi4",
+      "diànshì"
+    ],
+    "translation": [
+      "television",
+      "tv"
+    ]
+  },
+  {
+    "chs": "电影",
+    "cht": "電影",
+    "pinyin": [
+      "dian4ying3",
+      "diànyǐng"
+    ],
+    "translation": [
+      "movie",
+      "film"
+    ]
+  },
+  {
+    "chs": "东西",
+    "cht": "東西",
+    "pinyin": [
+      "dong1xi",
+      "dōngxi"
+    ],
+    "translation": [
+      "things",
+      "stuff"
+    ]
+  },
+  {
+    "chs": "都",
+    "cht": "都",
+    "pinyin": [
+      "dou1",
+      "dōu"
+    ],
+    "translation": [
+      "all",
+      "both"
+    ]
+  },
+  {
+    "chs": "读",
+    "cht": "讀",
+    "pinyin": [
+      "du2",
+      "dú"
+    ],
+    "translation": [
+      "to read",
+      "to study",
+      "read",
+      "study"
+    ]
+  },
+  {
+    "chs": "对不起",
+    "cht": "對不起",
+    "pinyin": [
+      "dui4bu5qi3",
+      "duìbuqǐ"
+    ],
+    "translation": [
+      "sorry"
+    ]
+  },
+  {
+    "chs": "多",
+    "cht": "多",
+    "pinyin": [
+      "duo1",
+      "duō"
+    ],
+    "translation": [
+      "many"
+    ]
+  },
+  {
+    "chs": "多少",
+    "cht": "多少",
+    "pinyin": [
+      "duo1shao",
+      "duōshao"
+    ],
+    "translation": [
+      "how much?",
+      "how many?"
+    ]
+  },
+  {
+    "chs": "儿子",
+    "cht": "兒子",
+    "pinyin": [
+      "er2zi",
+      "érzi"
+    ],
+    "translation": [
+      "son"
+    ]
+  },
+  {
+    "chs": "二",
+    "cht": "二",
+    "pinyin": [
+      "er4",
+      "èr"
+    ],
+    "translation": [
+      "two"
+    ]
+  },
+  {
+    "chs": "饭店",
+    "cht": "飯店",
+    "pinyin": [
+      "fan4dian4",
+      "fàndiàn"
+    ],
+    "translation": [
+      "restaurant",
+      "hotel"
+    ]
+  },
+  {
+    "chs": "飞机",
+    "cht": "飛機",
+    "pinyin": [
+      "fei1ji1",
+      "fēijī"
+    ],
+    "translation": [
+      "airplane"
+    ]
+  },
+  {
+    "chs": "分钟",
+    "cht": "分鐘",
+    "pinyin": [
+      "fen1zhong1",
+      "fēnzhōng"
+    ],
+    "translation": [
+      "minute",
+      "(measure word for time)"
+    ]
+  },
+  {
+    "chs": "高兴",
+    "cht": "高興",
+    "pinyin": [
+      "gao1xing4",
+      "gāoxìng"
+    ],
+    "translation": [
+      "happy",
+      "glad"
+    ]
+  },
+  {
+    "chs": "个",
+    "cht": "個",
+    "pinyin": [
+      "ge",
+      "ge"
+    ],
+    "translation": [
+      "general measure word"
+    ]
+  },
+  {
+    "chs": "工作",
+    "cht": "工作",
+    "pinyin": [
+      "gong1zuo4",
+      "gōngzuò"
+    ],
+    "translation": [
+      "work",
+      "a job"
+    ]
+  },
+  {
+    "chs": "狗",
+    "cht": "狗",
+    "pinyin": [
+      "gou3",
+      "gǒu"
+    ],
+    "translation": [
+      "dog"
+    ]
+  },
+  {
+    "chs": "汉语",
+    "cht": "漢語",
+    "pinyin": [
+      "han4yu3",
+      "hànyǔ"
+    ],
+    "translation": [
+      "chinese language",
+      "chinese"
+    ]
+  },
+  {
+    "chs": "好",
+    "cht": "好",
+    "pinyin": [
+      "hao3",
+      "hǎo"
+    ],
+    "translation": [
+      "good"
+    ]
+  },
+  {
+    "chs": "号",
+    "cht": "號",
+    "pinyin": [
+      "hao4",
+      "hào"
+    ],
+    "translation": [
+      "number",
+      "day of a month"
+    ]
+  },
+  {
+    "chs": "喝",
+    "cht": "喝",
+    "pinyin": [
+      "he1",
+      "hē"
+    ],
+    "translation": [
+      "to drink",
+      "drink"
+    ]
+  },
+  {
+    "chs": "和",
+    "cht": "和",
+    "pinyin": [
+      "he2",
+      "hé"
+    ],
+    "translation": [
+      "and",
+      "with"
+    ]
+  },
+  {
+    "chs": "很",
+    "cht": "很",
+    "pinyin": [
+      "hen3",
+      "hěn"
+    ],
+    "translation": [
+      "very",
+      "quite"
+    ]
+  },
+  {
+    "chs": "后面",
+    "cht": "後面",
+    "pinyin": [
+      "hou4mian",
+      "hòumian"
+    ],
+    "translation": [
+      "back",
+      "behind"
+    ]
+  },
+  {
+    "chs": "回",
+    "cht": "回",
+    "pinyin": [
+      "hui2",
+      "huí"
+    ],
+    "translation": [
+      "to return",
+      "to reply",
+      "to go back",
+      "reply",
+      "go back"
+    ]
+  },
+  {
+    "chs": "会",
+    "cht": "會",
+    "pinyin": [
+      "hui4",
+      "huì"
+    ],
+    "translation": [
+      "know how to"
+    ]
+  },
+  {
+    "chs": "几",
+    "cht": "幾",
+    "pinyin": [
+      "ji3",
+      "jǐ"
+    ],
+    "translation": [
+      "how many",
+      "several",
+      "a few"
+    ]
+  },
+  {
+    "chs": "家",
+    "cht": "家",
+    "pinyin": [
+      "jia1",
+      "jiā"
+    ],
+    "translation": [
+      "family",
+      "home"
+    ]
+  },
+  {
+    "chs": "叫",
+    "cht": "叫",
+    "pinyin": [
+      "jiao4",
+      "jiào"
+    ],
+    "translation": [
+      "to be called"
+    ]
+  },
+  {
+    "chs": "今天",
+    "cht": "今天",
+    "pinyin": [
+      "jin1tian1",
+      "jīntiān"
+    ],
+    "translation": [
+      "today"
+    ]
+  },
+  {
+    "chs": "九",
+    "cht": "九",
+    "pinyin": [
+      "jiu3",
+      "jiǔ"
+    ],
+    "translation": [
+      "nine"
+    ]
+  },
+  {
+    "chs": "开",
+    "cht": "開",
+    "pinyin": [
+      "kai1",
+      "kāi"
+    ],
+    "translation": [
+      "to open",
+      "to start",
+      "to operate (a vehicle)",
+      "start",
+      "open"
+    ]
+  },
+  {
+    "chs": "看",
+    "cht": "看",
+    "pinyin": [
+      "kan4",
+      "kàn"
+    ],
+    "translation": [
+      "see",
+      "look at",
+      "to watch"
+    ]
+  },
+  {
+    "chs": "看见",
+    "cht": "看見",
+    "pinyin": [
+      "kan4jian4",
+      "kànjiàn"
+    ],
+    "translation": [
+      "see",
+      "catch sight of"
+    ]
+  },
+  {
+    "chs": "块",
+    "cht": "塊",
+    "pinyin": [
+      "kuai4",
+      "kuài"
+    ],
+    "translation": [
+      "lump",
+      "piece",
+      "sum of money"
+    ]
+  },
+  {
+    "chs": "来",
+    "cht": "來",
+    "pinyin": [
+      "lai2",
+      "lái"
+    ],
+    "translation": [
+      "come",
+      "arrive",
+      "ever since",
+      "next"
+    ]
+  },
+  {
+    "chs": "老师",
+    "cht": "老師",
+    "pinyin": [
+      "lao3shi1",
+      "lǎoshī"
+    ],
+    "translation": [
+      "teacher"
+    ]
+  },
+  {
+    "chs": "了",
+    "cht": "了",
+    "pinyin": [
+      "le",
+      "le"
+    ],
+    "translation": [
+      "indicates a completed or finished action"
+    ]
+  },
+  {
+    "chs": "冷",
+    "cht": "冷",
+    "pinyin": [
+      "leng3",
+      "lěng"
+    ],
+    "translation": [
+      "cold"
+    ]
+  },
+  {
+    "chs": "里",
+    "cht": "裡",
+    "pinyin": [
+      "li3",
+      "lǐ"
+    ],
+    "translation": [
+      "inside",
+      "chinese mile (~.5 km)",
+      "mile",
+      "chinese mile"
+    ]
+  },
+  {
+    "chs": "六",
+    "cht": "六",
+    "pinyin": [
+      "liu4",
+      "liù"
+    ],
+    "translation": [
+      "six"
+    ]
+  },
+  {
+    "chs": "妈妈",
+    "cht": "媽媽",
+    "pinyin": [
+      "ma1ma",
+      "māma"
+    ],
+    "translation": [
+      "mom",
+      "mum"
+    ]
+  },
+  {
+    "chs": "吗",
+    "cht": "嗎",
+    "pinyin": [
+      "ma",
+      "ma"
+    ],
+    "translation": [
+      "indicates a yes/no question (added to a statement)"
+    ]
+  },
+  {
+    "chs": "买",
+    "cht": "買",
+    "pinyin": [
+      "mai3",
+      "mǎi"
+    ],
+    "translation": [
+      "to buy",
+      "buy"
+    ]
+  },
+  {
+    "chs": "猫",
+    "cht": "貓",
+    "pinyin": [
+      "mao1",
+      "māo"
+    ],
+    "translation": [
+      "cat"
+    ]
+  },
+  {
+    "chs": "没关系",
+    "cht": "沒關系",
+    "pinyin": [
+      "mei2guan1xi",
+      "méiguānxi"
+    ],
+    "translation": [
+      "it doesn't matter",
+      "never mind"
+    ]
+  },
+  {
+    "chs": "没有",
+    "cht": "沒有",
+    "pinyin": [
+      "mei2you3",
+      "méiyǒu"
+    ],
+    "translation": [
+      "not have",
+      "there is not"
+    ]
+  },
+  {
+    "chs": "米饭",
+    "cht": "米飯",
+    "pinyin": [
+      "mi3fan4",
+      "mǐfàn"
+    ],
+    "translation": [
+      "(cooked) rice",
+      "rice",
+      "cooked rice"
+    ]
+  },
+  {
+    "chs": "明天",
+    "cht": "明天",
+    "pinyin": [
+      "ming2tian1",
+      "míngtiān"
+    ],
+    "translation": [
+      "tomorrow"
+    ]
+  },
+  {
+    "chs": "名字",
+    "cht": "名字",
+    "pinyin": [
+      "ming2zi",
+      "míngzi"
+    ],
+    "translation": [
+      "name"
+    ]
+  },
+  {
+    "chs": "哪",
+    "cht": "哪",
+    "pinyin": [
+      "na3",
+      "nǎa"
+    ],
+    "translation": [
+      "which",
+      "how"
+    ]
+  },
+  {
+    "chs": "哪儿",
+    "cht": "哪兒",
+    "pinyin": [
+      "na3r",
+      "nǎr"
+    ],
+    "translation": [
+      "where?",
+      "where"
+    ]
+  },
+  {
+    "chs": "那",
+    "cht": "那",
+    "pinyin": [
+      "na4",
+      "nà"
+    ],
+    "translation": [
+      "that",
+      "then"
+    ]
+  },
+  {
+    "chs": "呢",
+    "cht": "呢",
+    "pinyin": [
+      "ne",
+      "ne"
+    ],
+    "translation": [
+      "indicates a question",
+      "how about?"
+    ]
+  },
+  {
+    "chs": "能",
+    "cht": "能",
+    "pinyin": [
+      "neng2",
+      "néng"
+    ],
+    "translation": [
+      "can",
+      "be able"
+    ]
+  },
+  {
+    "chs": "你",
+    "cht": "你",
+    "pinyin": [
+      "ni3",
+      "nǐ"
+    ],
+    "translation": [
+      "you"
+    ]
+  },
+  {
+    "chs": "年",
+    "cht": "年",
+    "pinyin": [
+      "nian2",
+      "nián"
+    ],
+    "translation": [
+      "year"
+    ]
+  },
+  {
+    "chs": "女儿",
+    "cht": "女兒",
+    "pinyin": [
+      "nv3er2",
+      "nǚér"
+    ],
+    "translation": [
+      "daughter"
+    ]
+  },
+  {
+    "chs": "朋友",
+    "cht": "朋友",
+    "pinyin": [
+      "peng2you3",
+      "peng2you",
+      "péngyou",
+      "péngyǒu"
+    ],
+    "translation": [
+      "friend"
+    ]
+  },
+  {
+    "chs": "漂亮",
+    "cht": "漂亮",
+    "pinyin": [
+      "piao4liang",
+      "piàoliang"
+    ],
+    "translation": [
+      "pretty",
+      "beautiful"
+    ]
+  },
+  {
+    "chs": "苹果",
+    "cht": "蘋果",
+    "pinyin": [
+      "ping2guo3",
+      "píngguǒ"
+    ],
+    "translation": [
+      "apple"
+    ]
+  },
+  {
+    "chs": "七",
+    "cht": "七",
+    "pinyin": [
+      "qi1",
+      "qī"
+    ],
+    "translation": [
+      "seven"
+    ]
+  },
+  {
+    "chs": "钱",
+    "cht": "錢",
+    "pinyin": [
+      "qian2",
+      "qián"
+    ],
+    "translation": [
+      "money",
+      "coin"
+    ]
+  },
+  {
+    "chs": "前面",
+    "cht": "前面",
+    "pinyin": [
+      "qian2mian4",
+      "qiánmiàn"
+    ],
+    "translation": [
+      "in front"
+    ]
+  },
+  {
+    "chs": "请",
+    "cht": "請",
+    "pinyin": [
+      "qing3",
+      "qǐng"
+    ],
+    "translation": [
+      "please",
+      "invite",
+      "to treat someone to something"
+    ]
+  },
+  {
+    "chs": "去",
+    "cht": "去",
+    "pinyin": [
+      "qu4",
+      "qù"
+    ],
+    "translation": [
+      "go",
+      "to leave"
+    ]
+  },
+  {
+    "chs": "热",
+    "cht": "熱",
+    "pinyin": [
+      "re4",
+      "rè"
+    ],
+    "translation": [
+      "heat",
+      "hot"
+    ]
+  },
+  {
+    "chs": "人",
+    "cht": "人",
+    "pinyin": [
+      "ren2",
+      "rén"
+    ],
+    "translation": [
+      "person",
+      "man",
+      "people"
+    ]
+  },
+  {
+    "chs": "认识",
+    "cht": "認識",
+    "pinyin": [
+      "ren4shi",
+      "rènshi"
+    ],
+    "translation": [
+      "recognize",
+      "know"
+    ]
+  },
+  {
+    "chs": "三",
+    "cht": "三",
+    "pinyin": [
+      "san1",
+      "sān"
+    ],
+    "translation": [
+      "three"
+    ]
+  },
+  {
+    "chs": "商店",
+    "cht": "商店",
+    "pinyin": [
+      "shang1dian4",
+      "shāngdiàn"
+    ],
+    "translation": [
+      "shop",
+      "store"
+    ]
+  },
+  {
+    "chs": "上",
+    "cht": "上",
+    "pinyin": [
+      "shang4",
+      "shàng"
+    ],
+    "translation": [
+      "above",
+      "up"
+    ]
+  },
+  {
+    "chs": "上午",
+    "cht": "上午",
+    "pinyin": [
+      "shang4wu3",
+      "shàngwǔ"
+    ],
+    "translation": [
+      "late morning"
+    ]
+  },
+  {
+    "chs": "少",
+    "cht": "少",
+    "pinyin": [
+      "shao3",
+      "shǎo"
+    ],
+    "translation": [
+      "few",
+      "little"
+    ]
+  },
+  {
+    "chs": "谁",
+    "cht": "誰",
+    "pinyin": [
+      "shei2",
+      "shéi"
+    ],
+    "translation": [
+      "who"
+    ]
+  },
+  {
+    "chs": "什么",
+    "cht": "什麼",
+    "pinyin": [
+      "shen2me",
+      "shénme"
+    ],
+    "translation": [
+      "what?"
+    ]
+  },
+  {
+    "chs": "十",
+    "cht": "十",
+    "pinyin": [
+      "shi2",
+      "shí"
+    ],
+    "translation": [
+      "ten"
+    ]
+  },
+  {
+    "chs": "时候",
+    "cht": "時候",
+    "pinyin": [
+      "shi2hou",
+      "shíhou"
+    ],
+    "translation": [
+      "time"
+    ]
+  },
+  {
+    "chs": "是",
+    "cht": "是",
+    "pinyin": [
+      "shi4",
+      "shì"
+    ],
+    "translation": [
+      "be",
+      "is",
+      "are",
+      "am"
+    ]
+  },
+  {
+    "chs": "书",
+    "cht": "書",
+    "pinyin": [
+      "shu1",
+      "shū"
+    ],
+    "translation": [
+      "book",
+      "letter"
+    ]
+  },
+  {
+    "chs": "水",
+    "cht": "水",
+    "pinyin": [
+      "shui3",
+      "shuǐ"
+    ],
+    "translation": [
+      "water"
+    ]
+  },
+  {
+    "chs": "水果",
+    "cht": "水果",
+    "pinyin": [
+      "shui3guo3",
+      "shuǐguǒ"
+    ],
+    "translation": [
+      "fruit"
+    ]
+  },
+  {
+    "chs": "睡觉",
+    "cht": "睡覺",
+    "pinyin": [
+      "shui4jiao4",
+      "shuìjiào"
+    ],
+    "translation": [
+      "to sleep",
+      "go to bed",
+      "sleep"
+    ]
+  },
+  {
+    "chs": "说",
+    "cht": "說",
+    "pinyin": [
+      "shuo1",
+      "shuō"
+    ],
+    "translation": [
+      "speak"
+    ]
+  },
+  {
+    "chs": "四",
+    "cht": "四",
+    "pinyin": [
+      "si4",
+      "sì"
+    ],
+    "translation": [
+      "four"
+    ]
+  },
+  {
+    "chs": "岁",
+    "cht": "歲",
+    "pinyin": [
+      "sui4",
+      "suì"
+    ],
+    "translation": [
+      "years old",
+      "age"
+    ]
+  },
+  {
+    "chs": "他",
+    "cht": "他",
+    "pinyin": [
+      "ta1",
+      "tā"
+    ],
+    "translation": [
+      "he",
+      "him"
+    ]
+  },
+  {
+    "chs": "她",
+    "cht": "她",
+    "pinyin": [
+      "ta1",
+      "tā"
+    ],
+    "translation": [
+      "she"
+    ]
+  },
+  {
+    "chs": "太",
+    "cht": "太",
+    "pinyin": [
+      "tai4",
+      "tài"
+    ],
+    "translation": [
+      "too (much)",
+      "too"
+    ]
+  },
+  {
+    "chs": "天气",
+    "cht": "天氣",
+    "pinyin": [
+      "tian1qi4",
+      "tiānqì"
+    ],
+    "translation": [
+      "weather"
+    ]
+  },
+  {
+    "chs": "听",
+    "cht": "聽",
+    "pinyin": [
+      "ting1",
+      "tīng"
+    ],
+    "translation": [
+      "listen",
+      "hear"
+    ]
+  },
+  {
+    "chs": "同学",
+    "cht": "同學",
+    "pinyin": [
+      "tong2xue2",
+      "tóngxué"
+    ],
+    "translation": [
+      "fellow student",
+      "schoolmate"
+    ]
+  },
+  {
+    "chs": "喂",
+    "cht": "喂",
+    "pinyin": [
+      "wei4",
+      "wèi"
+    ],
+    "translation": [
+      "hello"
+    ]
+  },
+  {
+    "chs": "我",
+    "cht": "我",
+    "pinyin": [
+      "wo3",
+      "wǒ"
+    ],
+    "translation": [
+      "i",
+      "me"
+    ]
+  },
+  {
+    "chs": "我们",
+    "cht": "我們",
+    "pinyin": [
+      "wo3men",
+      "wǒmen"
+    ],
+    "translation": [
+      "we",
+      "us"
+    ]
+  },
+  {
+    "chs": "五",
+    "cht": "五",
+    "pinyin": [
+      "wu3",
+      "wǔ"
+    ],
+    "translation": [
+      "five"
+    ]
+  },
+  {
+    "chs": "喜欢",
+    "cht": "喜歡",
+    "pinyin": [
+      "xi3huan",
+      "xǐhuan"
+    ],
+    "translation": [
+      "to like",
+      "like"
+    ]
+  },
+  {
+    "chs": "下",
+    "cht": "下",
+    "pinyin": [
+      "xia4",
+      "xià"
+    ],
+    "translation": [
+      "fall",
+      "below"
+    ]
+  },
+  {
+    "chs": "下午",
+    "cht": "下午",
+    "pinyin": [
+      "xia4wu3",
+      "xiàwǔ"
+    ],
+    "translation": [
+      "afternoon"
+    ]
+  },
+  {
+    "chs": "下雨",
+    "cht": "下雨",
+    "pinyin": [
+      "xia4yu3",
+      "xiàyǔ"
+    ],
+    "translation": [
+      "to rain",
+      "rain"
+    ]
+  },
+  {
+    "chs": "先生",
+    "cht": "先生",
+    "pinyin": [
+      "xian1sheng",
+      "xiānsheng"
+    ],
+    "translation": [
+      "mr",
+      "sir"
+    ]
+  },
+  {
+    "chs": "现在",
+    "cht": "現在",
+    "pinyin": [
+      "xian4zai4",
+      "xiànzài"
+    ],
+    "translation": [
+      "now"
+    ]
+  },
+  {
+    "chs": "想",
+    "cht": "想",
+    "pinyin": [
+      "xiang3",
+      "xiǎng"
+    ],
+    "translation": [
+      "think",
+      "believe",
+      "suppose",
+      "would like to"
+    ]
+  },
+  {
+    "chs": "小",
+    "cht": "小",
+    "pinyin": [
+      "xiao3",
+      "xiǎo"
+    ],
+    "translation": [
+      "small",
+      "young"
+    ]
+  },
+  {
+    "chs": "小姐",
+    "cht": "小姐",
+    "pinyin": [
+      "xiao3jie",
+      "xiǎojie"
+    ],
+    "translation": [
+      "young lady",
+      "miss",
+      "ms"
+    ]
+  },
+  {
+    "chs": "些",
+    "cht": "些",
+    "pinyin": [
+      "xie1",
+      "xiē"
+    ],
+    "translation": [
+      "some",
+      "few",
+      "several"
+    ]
+  },
+  {
+    "chs": "写",
+    "cht": "寫",
+    "pinyin": [
+      "xie3",
+      "xiě"
+    ],
+    "translation": [
+      "to write",
+      "to compose",
+      "write",
+      "compose"
+    ]
+  },
+  {
+    "chs": "谢谢",
+    "cht": "謝謝",
+    "pinyin": [
+      "xie4xie",
+      "xièxie"
+    ],
+    "translation": [
+      "thank you"
+    ]
+  },
+  {
+    "chs": "星期",
+    "cht": "星期",
+    "pinyin": [
+      "xing1qi1",
+      "xīngqī"
+    ],
+    "translation": [
+      "week"
+    ]
+  },
+  {
+    "chs": "学生",
+    "cht": "學生",
+    "pinyin": [
+      "xue2sheng",
+      "xuésheng"
+    ],
+    "translation": [
+      "student"
+    ]
+  },
+  {
+    "chs": "学习",
+    "cht": "學習",
+    "pinyin": [
+      "xue2xi2",
+      "xuéxí"
+    ],
+    "translation": [
+      "learn",
+      "to study",
+      "study"
+    ]
+  },
+  {
+    "chs": "学校",
+    "cht": "學校",
+    "pinyin": [
+      "xue2xiao4",
+      "xuéxiào"
+    ],
+    "translation": [
+      "school"
+    ]
+  },
+  {
+    "chs": "一",
+    "cht": "一",
+    "pinyin": [
+      "yi1",
+      "yī"
+    ],
+    "translation": [
+      "one",
+      "once",
+      "a"
+    ]
+  },
+  {
+    "chs": "衣服",
+    "cht": "衣服",
+    "pinyin": [
+      "yi1fu",
+      "yīfu"
+    ],
+    "translation": [
+      "clothes"
+    ]
+  },
+  {
+    "chs": "医生",
+    "cht": "醫生",
+    "pinyin": [
+      "yi1sheng1",
+      "yīshēng"
+    ],
+    "translation": [
+      "doctor"
+    ]
+  },
+  {
+    "chs": "医院",
+    "cht": "醫院",
+    "pinyin": [
+      "yi1yuan4",
+      "yīyuàn"
+    ],
+    "translation": [
+      "hospital"
+    ]
+  },
+  {
+    "chs": "椅子",
+    "cht": "椅子",
+    "pinyin": [
+      "yi3zi",
+      "yǐzi"
+    ],
+    "translation": [
+      "chair"
+    ]
+  },
+  {
+    "chs": "一点儿",
+    "cht": "一點兒",
+    "pinyin": [
+      "yi4dian3r",
+      "yìdiǎnr"
+    ],
+    "translation": [
+      "a bit",
+      "a few"
+    ]
+  },
+  {
+    "chs": "有",
+    "cht": "有",
+    "pinyin": [
+      "you3",
+      "yǒu"
+    ],
+    "translation": [
+      "have"
+    ]
+  },
+  {
+    "chs": "月",
+    "cht": "月",
+    "pinyin": [
+      "yue4",
+      "yuè"
+    ],
+    "translation": [
+      "moon",
+      "month"
+    ]
+  },
+  {
+    "chs": "在",
+    "cht": "在",
+    "pinyin": [
+      "zai4",
+      "zài"
+    ],
+    "translation": [
+      "at",
+      "on",
+      "in",
+      "indicates an action in progress"
+    ]
+  },
+  {
+    "chs": "再见",
+    "cht": "再見",
+    "pinyin": [
+      "zai4jian4",
+      "zàijiàn"
+    ],
+    "translation": [
+      "goodbye",
+      "see you later"
+    ]
+  },
+  {
+    "chs": "怎么",
+    "cht": "怎麼",
+    "pinyin": [
+      "zen3me",
+      "zěnme"
+    ],
+    "translation": [
+      "how?"
+    ]
+  },
+  {
+    "chs": "怎么样",
+    "cht": "怎麼樣",
+    "pinyin": [
+      "zen3me5yang4",
+      "zěnmeyàng"
+    ],
+    "translation": [
+      "how about?",
+      "how is/was it?"
+    ]
+  },
+  {
+    "chs": "这",
+    "cht": "這",
+    "pinyin": [
+      "zhe4",
+      "zhè"
+    ],
+    "translation": [
+      "this"
+    ]
+  },
+  {
+    "chs": "中国",
+    "cht": "中國",
+    "pinyin": [
+      "zhong1guo2",
+      "zhōngguó"
+    ],
+    "translation": [
+      "china"
+    ]
+  },
+  {
+    "chs": "中午",
+    "cht": "中午",
+    "pinyin": [
+      "zhong1wu3",
+      "zhōngwǔ"
+    ],
+    "translation": [
+      "noon",
+      "midday"
+    ]
+  },
+  {
+    "chs": "住",
+    "cht": "住",
+    "pinyin": [
+      "zhu4",
+      "zhù"
+    ],
+    "translation": [
+      "to live",
+      "reside",
+      "to stop",
+      "stop"
+    ]
+  },
+  {
+    "chs": "桌子",
+    "cht": "桌子",
+    "pinyin": [
+      "zhuo1zi",
+      "zhuōzi"
+    ],
+    "translation": [
+      "table",
+      "desk"
+    ]
+  },
+  {
+    "chs": "字",
+    "cht": "字",
+    "pinyin": [
+      "zi4",
+      "zì"
+    ],
+    "translation": [
+      "letter",
+      "character"
+    ]
+  },
+  {
+    "chs": "昨天",
+    "cht": "昨天",
+    "pinyin": [
+      "zuo2tian1",
+      "zuótiān"
+    ],
+    "translation": [
+      "yesterday"
+    ]
+  },
+  {
+    "chs": "做",
+    "cht": "做",
+    "pinyin": [
+      "zuo4",
+      "zuò"
+    ],
+    "translation": [
+      "do",
+      "make"
+    ]
+  },
+  {
+    "chs": "坐",
+    "cht": "坐",
+    "pinyin": [
+      "zuo4",
+      "zuò"
+    ],
+    "translation": [
+      "sit"
+    ]
+  }
+]
