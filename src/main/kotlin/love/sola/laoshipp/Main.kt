@@ -39,9 +39,6 @@ suspend fun main() {
         slash("youtube", "Watch YouTube together!") {
             option<GuildChannel>("channel", "The voice channel you want to watch in.", false)
         }
-        slash("youtube-dev", "Watch YouTube together!") {
-            option<GuildChannel>("channel", "The voice channel you want to watch in.", false)
-        }
         slash("doodle", "Play Doddle Crew!") {
             option<GuildChannel>("channel", "The voice channel you want to play in.", false)
         }
