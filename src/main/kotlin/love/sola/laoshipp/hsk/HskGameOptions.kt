@@ -12,6 +12,6 @@ data class HskGameOptions(
     constructor(e: SlashCommandInteractionEvent) : this(
         e.getOption<String>("level") ?: "1",
         min(100, e.getOption<Int>("rounds") ?: 3),
-        min(16, e.getOption<Int>("delay") ?: 8)
+        min(16, e.getOption<Int>("delay") ?: 10)
     )
 }
