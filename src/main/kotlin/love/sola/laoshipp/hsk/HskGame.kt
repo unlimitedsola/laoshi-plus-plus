@@ -82,9 +82,10 @@ class HskGame(
     }
 
     private fun roundEndMessage(results: Map<HskPlayer, Boolean>) = Message {
+        val lastRound = round == options.rounds || isCanceled()
         embed {
             title = "Round #$round - Complete"
-            color = Color.YELLOW.rgb
+            color = if (lastRound) Color.RED.rgb else Color.YELLOW.rgb
             field {
                 name = "Characters (Simplified/Traditional)"
                 value = "${word.chs} / ${word.cht}"
@@ -115,7 +116,7 @@ class HskGame(
                 inline = false
             }
             footer {
-                name = if (round == options.rounds || isCanceled()) {
+                name = if (lastRound) {
                     "This was the last round."
                 } else {
                     "Next round will begin shortly; use /hskstop to quit."
