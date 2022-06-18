@@ -3,6 +3,7 @@ package love.sola.laoshipp.hsk
 import dev.minn.jda.ktx.coroutines.await
 import dev.minn.jda.ktx.messages.Message
 import kotlinx.coroutines.delay
+import net.dv8tion.jda.api.EmbedBuilder
 import net.dv8tion.jda.api.entities.GuildMessageChannel
 import java.awt.Color
 import java.net.URLEncoder
@@ -66,7 +67,7 @@ class HskGame(
         answers.clear()
     }
 
-    private fun Word.judge(answer: String) = answer in pinyin || answer in translation
+    private fun Word.judge(answer: String) = answer in pinyin || answer == zhuyin || answer in translation
 
     private fun roundStartMessage() = Message {
         embed {
@@ -90,13 +91,23 @@ class HskGame(
                 name = "Characters (Simplified/Traditional)"
                 value = "${word.chs} / ${word.cht}"
             }
-            field {
-                name = "Pinyin"
-                value = word.pinyin.joinToString(" / ")
+            if (word.pinyin.isNotEmpty()) {
+                field {
+                    name = "Pinyin"
+                    value = word.pinyin.joinToString(" / ")
+                }
             }
-            field {
-                name = "Translations"
-                value = word.translation.joinToString(", ")
+            if (word.zhuyin != null) {
+                field {
+                    name = "Zhuyin"
+                    value = word.zhuyin ?: EmbedBuilder.ZERO_WIDTH_SPACE
+                }
+            }
+            if (word.translation.isNotEmpty()) {
+                field {
+                    name = "Translations"
+                    value = word.translation.joinToString(", ")
+                }
             }
             field {
                 name = "Tools"

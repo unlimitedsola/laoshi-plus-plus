@@ -26,6 +26,7 @@ object Dictionary {
 data class Word(
     val chs: String,
     val cht: String,
-    val pinyin: List<String>,
-    val translation: List<String>
+    val pinyin: List<String> = emptyList(),
+    val zhuyin: String? = null,
+    val translation: List<String> = emptyList()
 )
