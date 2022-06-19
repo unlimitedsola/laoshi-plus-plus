@@ -106,7 +106,8 @@ class HskGame(
             if (word.translation.isNotEmpty()) {
                 field {
                     name = "Translations"
-                    value = word.translation.joinToString(", ")
+                    value = word.translation.joinToString("\n")
+                    inline = false
                 }
             }
             field {
