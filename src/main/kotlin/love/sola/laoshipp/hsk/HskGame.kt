@@ -67,13 +67,13 @@ class HskGame(
         answers.clear()
     }
 
-    private fun Word.judge(answer: String) = answer in pinyin || answer == zhuyin || answer in translation
+    private fun Word.judge(answer: String) = answer in pinyin || answer == zhuyin
 
     private fun roundStartMessage() = Message {
         embed {
             title = "Round #$round / ${options.rounds}"
             description =
-                """To play, type the translation for the following character in pinyin or english."""
+                """To play, type the pronunciation of the following characters in pinyin/zhuyin."""
             color = Color.GREEN.rgb
             field {
                 name = "Characters (Simplified/Traditional)"

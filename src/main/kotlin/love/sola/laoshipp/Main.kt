@@ -8,7 +8,7 @@ import dev.minn.jda.ktx.jdabuilder.cache
 import dev.minn.jda.ktx.jdabuilder.intents
 import dev.minn.jda.ktx.jdabuilder.light
 import love.sola.laoshipp.activity.ActivityCommand
-import love.sola.laoshipp.hsk.HskCommand
+import love.sola.laoshipp.hsk.HskCommandListener
 import love.sola.laoshipp.hsk.HskGameEventListener
 import net.dv8tion.jda.api.OnlineStatus
 import net.dv8tion.jda.api.entities.Activity
@@ -23,7 +23,7 @@ suspend fun main() {
         setMemberCachePolicy(MemberCachePolicy.DEFAULT)
         intents += GatewayIntent.GUILD_VOICE_STATES
         cache += CacheFlag.VOICE_STATE
-        addEventListeners(HskCommand)
+        addEventListeners(HskCommandListener)
         addEventListeners(HskGameEventListener)
         addEventListeners(ActivityCommand)
     }
@@ -31,6 +31,11 @@ suspend fun main() {
     jda.updateCommands {
         slash("hsk", "Start the game!") {
             option<Int>("level", "Currently we have 1-6 levels.", false)
+            option<Int>("rounds", "How many rounds you want to play.", false)
+            option<Int>("delay", "The timeout for each round (in seconds).", false)
+        }
+        slash("tocfl", "Start the game!") {
+            option<Int>("level", "Currently we have 1-7 levels.", false)
             option<Int>("rounds", "How many rounds you want to play.", false)
             option<Int>("delay", "The timeout for each round (in seconds).", false)
         }

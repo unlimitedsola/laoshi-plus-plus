@@ -7,7 +7,7 @@ internal class DictionaryTest {
 
     @Test
     fun test() {
-        val dict = Dictionary["1"]
+        val dict = Dictionary[HskLevel.HSK_1]
         assertTrue(dict.isNotEmpty())
     }
 }

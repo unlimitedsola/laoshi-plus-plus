@@ -5,21 +5,20 @@ import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
 
 object Dictionary {
-    private val LEVELS = listOf(
-        "1", "2", "3", "4", "5", "6"
-    )
 
-    private val levels: Map<String, List<Word>> by lazy { load() }
+    private val levels: Map<HskLevel, List<Word>> by lazy { load() }
 
-    private fun load(): Map<String, List<Word>> {
-        return LEVELS.associateWith { name ->
-            val json = this.javaClass.getResource("/levels/$name.json")?.readText() ?: "{}"
+    private fun load(): Map<HskLevel, List<Word>> {
+        return HskLevel.values().associateWith { level ->
+            val json = this.javaClass.getResource("/levels/${level.name.lowercase()}.json")?.readText()
+                ?: throw NoSuchElementException("Dictionary for level $level can't be found.")
             Json.decodeFromString(json)
         }
     }
 
-    operator fun contains(name: String) = levels.contains(name)
-    operator fun get(name: String) = levels[name] ?: throw IllegalArgumentException("Level '$name' does not exist!")
+    operator fun contains(level: HskLevel) = levels.contains(level)
+    operator fun get(level: HskLevel) =
+        levels[level] ?: throw IllegalArgumentException("Level '$level' does not exist!")
 }
 
 @Serializable
