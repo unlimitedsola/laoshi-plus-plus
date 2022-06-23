@@ -131,7 +131,7 @@ class HskGame(
             if (word.pinyin.isNotEmpty()) {
                 field {
                     name = "Pinyin"
-                    value = word.pinyin.joinToString(" / ")
+                    value = word.pinyin.joinToString("\n")
                 }
             }
         }
