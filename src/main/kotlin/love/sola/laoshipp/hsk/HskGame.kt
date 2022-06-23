@@ -89,6 +89,7 @@ class HskGame(
             renderCharacters()
             renderPronunciation()
             renderTranslation()
+            renderTools()
 
             field {
                 name = "Results"
