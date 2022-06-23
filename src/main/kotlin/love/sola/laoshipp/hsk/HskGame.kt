@@ -91,10 +91,6 @@ class HskGame(
             renderTranslation()
 
             field {
-                name = "Tools"
-                value = "[Example Sentences](${naverLink(word.chs)})"
-            }
-            field {
                 name = "Results"
                 value = scores.entries.sortedByDescending(Map.Entry<HskPlayer, Int>::value)
                     .joinToString(separator = "\n") { (k, v) ->
@@ -119,12 +115,12 @@ class HskGame(
 
     private fun InlineEmbed.renderCharacters() {
         field {
-            if (options.level.command == "tocfl") {
-                name = "Characters (Traditional/Simplified)"
-                value = "${word.cht} / ${word.chs}"
-            } else {
+            if (options.level.simplified) {
                 name = "Characters (Simplified/Traditional)"
                 value = "${word.chs} / ${word.cht}"
+            } else {
+                name = "Characters (Traditional/Simplified)"
+                value = "${word.cht} / ${word.chs}"
             }
         }
     }
@@ -148,7 +144,7 @@ class HskGame(
             }
         }
 
-        if (options.level.command == "tocfl") {
+        if (options.level.simplified) {
             zhuyin()
             pinyin()
         } else {
@@ -166,9 +162,26 @@ class HskGame(
             }
         }
     }
+
+    private fun InlineEmbed.renderTools() {
+        field {
+            name = "Tools"
+            val link = if (options.level.simplified) {
+                naverLink(word.chs)
+            } else {
+                moedictLink(word.cht)
+            }
+            value = "[Example Sentences](${link})"
+        }
+    }
 }
 
 private fun naverLink(word: String): String {
     return "https://dict.naver.com/linedict/zhendict/dict.html#/cnen/example?query=" +
+            URLEncoder.encode(word, Charsets.UTF_8)
+}
+
+private fun moedictLink(word: String): String {
+    return "https://www.moedict.tw/~" +
             URLEncoder.encode(word, Charsets.UTF_8)
 }
