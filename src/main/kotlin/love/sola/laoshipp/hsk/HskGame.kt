@@ -97,7 +97,7 @@ class HskGame(
                     .joinToString(separator = "\n") { (k, v) ->
                         val icon = when (results[k]) {
                             true -> ":white_check_mark:"
-                            false -> ":negative_squared_cross_mark:"
+                            false -> ":x:"
                             null -> ":white_large_square:"
                         }
                         "$icon [$v] ${k.name}"
