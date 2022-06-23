@@ -47,6 +47,9 @@ suspend fun main() {
         slash("sketch", "Play Sketch Heads!") {
             option<GuildChannel>("channel", "The voice channel you want to play in.", false)
         }
+        slash("chess", "Play Chess In The Park!") {
+            option<GuildChannel>("channel", "The voice channel you want to play in.", false)
+        }
     }.await()
 
     jda.presence.setPresence(OnlineStatus.ONLINE, Activity.competing("/hsk [1-6]"))

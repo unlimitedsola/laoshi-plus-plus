@@ -13,7 +13,8 @@ object ActivityCommand : CoroutineEventListener {
     private val applications = mapOf(
         "youtube" to 880218394199220334,
         "youtube-dev" to 880218832743055411,
-        "sketch" to 902271654783242291
+        "sketch" to 902271654783242291,
+        "chess" to 832012774040141894
     )
 
     override suspend fun onEvent(event: GenericEvent) {
