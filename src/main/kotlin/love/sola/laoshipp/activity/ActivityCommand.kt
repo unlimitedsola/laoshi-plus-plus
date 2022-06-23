@@ -14,7 +14,8 @@ object ActivityCommand : CoroutineEventListener {
         "youtube" to 880218394199220334,
         "youtube-dev" to 880218832743055411,
         "sketch" to 902271654783242291,
-        "chess" to 832012774040141894
+        "chess" to 832012774040141894,
+        "puttparty" to 945737671223947305
     )
 
     override suspend fun onEvent(event: GenericEvent) {
