@@ -34,12 +34,13 @@ suspend fun main() {
             option<Int>("rounds", "How many rounds you want to play.", false)
             option<Int>("delay", "The timeout for each round (in seconds).", false)
         }
+        slash("hskstop", "End the current running game.")
         slash("tocfl", "Start the game!") {
             option<Int>("level", "Currently we have 1-7 levels.", false)
             option<Int>("rounds", "How many rounds you want to play.", false)
             option<Int>("delay", "The timeout for each round (in seconds).", false)
         }
-        slash("hskstop", "End the current running game.")
+        slash("tocflstop", "End the current running game.")
 
         slash("youtube", "Watch YouTube together!") {
             option<GuildChannel>("channel", "The voice channel you want to watch in.", false)

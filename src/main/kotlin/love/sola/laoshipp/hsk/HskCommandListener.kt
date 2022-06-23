@@ -17,7 +17,7 @@ object HskCommandListener : CoroutineEventListener {
         if (!event.isFromGuild) return
         when (event.name) {
             "hsk", "tocfl" -> start(event)
-            "hskstop" -> stop(event)
+            "hskstop", "tocflstop" -> stop(event)
         }
     }
 
@@ -63,7 +63,7 @@ object HskCommandListener : CoroutineEventListener {
             color = Color.CYAN.rgb
             title = "${options.level.title} Practice Initialized"
             description = """
-                Game initiated by ${creator.asMention}, use /hskstop to cancel.
+                Game initiated by ${creator.asMention}, use /${options.level.command}stop to cancel.
                 To play, type the pronunciation of the following characters in pinyin/zhuyin.
             """.trimIndent()
             field("Level", options.level.title)

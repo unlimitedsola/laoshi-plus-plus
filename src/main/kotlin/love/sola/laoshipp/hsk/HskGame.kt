@@ -1,6 +1,7 @@
 package love.sola.laoshipp.hsk
 
 import dev.minn.jda.ktx.coroutines.await
+import dev.minn.jda.ktx.messages.InlineEmbed
 import dev.minn.jda.ktx.messages.Message
 import kotlinx.coroutines.delay
 import net.dv8tion.jda.api.EmbedBuilder
@@ -75,10 +76,7 @@ class HskGame(
             description =
                 """To play, type the pronunciation of the following characters in pinyin/zhuyin."""
             color = Color.GREEN.rgb
-            field {
-                name = "Characters (Simplified/Traditional)"
-                value = "${word.chs} / ${word.cht}"
-            }
+            renderCharacters()
         }
     }
 
@@ -87,29 +85,11 @@ class HskGame(
         embed {
             title = "Round #$round - Complete"
             color = if (lastRound) Color.RED.rgb else Color.YELLOW.rgb
-            field {
-                name = "Characters (Simplified/Traditional)"
-                value = "${word.chs} / ${word.cht}"
-            }
-            if (word.pinyin.isNotEmpty()) {
-                field {
-                    name = "Pinyin"
-                    value = word.pinyin.joinToString(" / ")
-                }
-            }
-            if (word.zhuyin != null) {
-                field {
-                    name = "Zhuyin"
-                    value = word.zhuyin ?: EmbedBuilder.ZERO_WIDTH_SPACE
-                }
-            }
-            if (word.translation.isNotEmpty()) {
-                field {
-                    name = "Translations"
-                    value = word.translation.joinToString("\n")
-                    inline = false
-                }
-            }
+
+            renderCharacters()
+            renderPronunciation()
+            renderTranslation()
+
             field {
                 name = "Tools"
                 value = "[Example Sentences](${naverLink(word.chs)})"
@@ -131,8 +111,58 @@ class HskGame(
                 name = if (lastRound) {
                     "This was the last round."
                 } else {
-                    "Next round will begin shortly; use /hskstop to quit."
+                    "Next round will begin shortly; use /${options.level.command}stop to quit."
                 }
+            }
+        }
+    }
+
+    private fun InlineEmbed.renderCharacters() {
+        field {
+            if (options.level.command == "tocfl") {
+                name = "Characters (Traditional/Simplified)"
+                value = "${word.cht} / ${word.chs}"
+            } else {
+                name = "Characters (Simplified/Traditional)"
+                value = "${word.chs} / ${word.cht}"
+            }
+        }
+    }
+
+    private fun InlineEmbed.renderPronunciation() {
+        fun InlineEmbed.pinyin() {
+            if (word.pinyin.isNotEmpty()) {
+                field {
+                    name = "Pinyin"
+                    value = word.pinyin.joinToString(" / ")
+                }
+            }
+        }
+
+        fun InlineEmbed.zhuyin() {
+            if (word.zhuyin != null) {
+                field {
+                    name = "Zhuyin"
+                    value = word.zhuyin ?: EmbedBuilder.ZERO_WIDTH_SPACE
+                }
+            }
+        }
+
+        if (options.level.command == "tocfl") {
+            zhuyin()
+            pinyin()
+        } else {
+            zhuyin()
+            pinyin()
+        }
+    }
+
+    private fun InlineEmbed.renderTranslation() {
+        if (word.translation.isNotEmpty()) {
+            field {
+                name = "Translations"
+                value = word.translation.joinToString("\n")
+                inline = false
             }
         }
     }
