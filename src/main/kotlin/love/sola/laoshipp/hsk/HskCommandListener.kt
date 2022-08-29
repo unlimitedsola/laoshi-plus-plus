@@ -62,10 +62,17 @@ object HskCommandListener : CoroutineEventListener {
         embed {
             color = Color.CYAN.rgb
             title = "${options.level.title} Practice Initialized"
-            description = """
+            description = if (options.level.simplified) {
+                """
+                Game initiated by ${creator.asMention}, use /${options.level.command}stop to cancel.
+                To play, type the pronunciation of the following characters in pinyin.
+                """.trimIndent()
+            } else {
+                """
                 Game initiated by ${creator.asMention}, use /${options.level.command}stop to cancel.
                 To play, type the pronunciation of the following characters in pinyin/zhuyin.
-            """.trimIndent()
+                """.trimIndent()
+            }
             field("Level", options.level.title)
             field("Rounds", options.rounds.toString())
             field("Timeout", "${options.delay} second(s)")

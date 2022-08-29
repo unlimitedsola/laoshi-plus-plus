@@ -73,8 +73,11 @@ class HskGame(
     private fun roundStartMessage() = MessageCreate {
         embed {
             title = "Round #$round / ${options.rounds}"
-            description =
+            description = if (options.level.simplified) {
+                """To play, type the pronunciation of the following characters in pinyin."""
+            } else {
                 """To play, type the pronunciation of the following characters in pinyin/zhuyin."""
+            }
             color = Color.GREEN.rgb
             renderCharacters()
         }
