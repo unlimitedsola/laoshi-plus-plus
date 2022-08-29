@@ -3,7 +3,7 @@ package love.sola.laoshipp.hsk
 import dev.minn.jda.ktx.coroutines.await
 import dev.minn.jda.ktx.events.CoroutineEventListener
 import dev.minn.jda.ktx.interactions.components.getOption
-import dev.minn.jda.ktx.messages.Message
+import dev.minn.jda.ktx.messages.MessageCreate
 import net.dv8tion.jda.api.entities.User
 import net.dv8tion.jda.api.events.GenericEvent
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent
@@ -58,7 +58,7 @@ object HskCommandListener : CoroutineEventListener {
         }
     }
 
-    private fun gameStartMessage(options: HskGameOptions, creator: User) = Message {
+    private fun gameStartMessage(options: HskGameOptions, creator: User) = MessageCreate {
         embed {
             color = Color.CYAN.rgb
             title = "${options.level.title} Practice Initialized"

@@ -24,8 +24,8 @@ dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3")
 
-    implementation("net.dv8tion:JDA:5.0.0-alpha.12")
-    implementation("com.github.minndevelopment:jda-ktx:bf7cd9")
+    implementation("net.dv8tion:JDA:5.0.0-alpha.18")
+    implementation("com.github.minndevelopment:jda-ktx:081a177")
 
     implementation("org.slf4j:slf4j-api:1.7.36")
     implementation("ch.qos.logback:logback-core:1.2.11")

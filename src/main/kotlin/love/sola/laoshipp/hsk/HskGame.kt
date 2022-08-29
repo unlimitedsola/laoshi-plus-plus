@@ -2,7 +2,7 @@ package love.sola.laoshipp.hsk
 
 import dev.minn.jda.ktx.coroutines.await
 import dev.minn.jda.ktx.messages.InlineEmbed
-import dev.minn.jda.ktx.messages.Message
+import dev.minn.jda.ktx.messages.MessageCreate
 import kotlinx.coroutines.delay
 import net.dv8tion.jda.api.EmbedBuilder
 import net.dv8tion.jda.api.entities.GuildMessageChannel
@@ -70,7 +70,7 @@ class HskGame(
 
     private fun Word.judge(answer: String) = answer in pinyin || answer == zhuyin
 
-    private fun roundStartMessage() = Message {
+    private fun roundStartMessage() = MessageCreate {
         embed {
             title = "Round #$round / ${options.rounds}"
             description =
@@ -80,7 +80,7 @@ class HskGame(
         }
     }
 
-    private fun roundEndMessage(results: Map<HskPlayer, Boolean>) = Message {
+    private fun roundEndMessage(results: Map<HskPlayer, Boolean>) = MessageCreate {
         val lastRound = round == options.rounds || isCanceled()
         embed {
             title = "Round #$round - Complete"
