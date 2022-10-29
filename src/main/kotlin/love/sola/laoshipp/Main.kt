@@ -12,7 +12,7 @@ import love.sola.laoshipp.hsk.HskCommandListener
 import love.sola.laoshipp.hsk.HskGameEventListener
 import net.dv8tion.jda.api.OnlineStatus
 import net.dv8tion.jda.api.entities.Activity
-import net.dv8tion.jda.api.entities.GuildChannel
+import net.dv8tion.jda.api.entities.channel.middleman.GuildChannel
 import net.dv8tion.jda.api.requests.GatewayIntent
 import net.dv8tion.jda.api.utils.MemberCachePolicy
 import net.dv8tion.jda.api.utils.cache.CacheFlag

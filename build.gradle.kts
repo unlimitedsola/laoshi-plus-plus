@@ -2,8 +2,8 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     application
-    kotlin("jvm") version "1.6.21"
-    kotlin("plugin.serialization") version "1.6.21"
+    kotlin("jvm") version "1.7.20"
+    kotlin("plugin.serialization") version "1.7.20"
 }
 
 group = "love.sola"
@@ -22,14 +22,14 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1")
 
-    implementation("net.dv8tion:JDA:5.0.0-alpha.18")
-    implementation("com.github.minndevelopment:jda-ktx:081a177")
+    implementation("net.dv8tion:JDA:5.0.0-alpha.22")
+    implementation("com.github.minndevelopment:jda-ktx:863470e")
 
-    implementation("org.slf4j:slf4j-api:1.7.36")
-    implementation("ch.qos.logback:logback-core:1.2.11")
-    implementation("ch.qos.logback:logback-classic:1.2.11")
+    implementation("org.slf4j:slf4j-api:2.0.3")
+    implementation("ch.qos.logback:logback-core:1.4.4")
+    implementation("ch.qos.logback:logback-classic:1.4.4")
 
     testImplementation(kotlin("test-junit5"))
 }

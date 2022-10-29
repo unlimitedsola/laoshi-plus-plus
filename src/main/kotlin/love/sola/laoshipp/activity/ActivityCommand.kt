@@ -3,8 +3,8 @@ package love.sola.laoshipp.activity
 import dev.minn.jda.ktx.coroutines.await
 import dev.minn.jda.ktx.events.CoroutineEventListener
 import dev.minn.jda.ktx.interactions.components.getOption
-import net.dv8tion.jda.api.entities.GuildChannel
-import net.dv8tion.jda.api.entities.VoiceChannel
+import net.dv8tion.jda.api.entities.channel.concrete.VoiceChannel
+import net.dv8tion.jda.api.entities.channel.middleman.GuildChannel
 import net.dv8tion.jda.api.events.GenericEvent
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent
 

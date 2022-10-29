@@ -5,7 +5,7 @@ import dev.minn.jda.ktx.messages.InlineEmbed
 import dev.minn.jda.ktx.messages.MessageCreate
 import kotlinx.coroutines.delay
 import net.dv8tion.jda.api.EmbedBuilder
-import net.dv8tion.jda.api.entities.GuildMessageChannel
+import net.dv8tion.jda.api.entities.channel.middleman.GuildMessageChannel
 import java.awt.Color
 import java.net.URLEncoder
 import java.util.concurrent.ConcurrentHashMap
