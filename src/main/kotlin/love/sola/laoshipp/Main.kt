@@ -21,7 +21,7 @@ suspend fun main() {
     val token = System.getenv("DISCORD_TOKEN") ?: throw IllegalArgumentException("DISCORD_TOKEN is not defined.")
     val jda = light(token, enableCoroutines = true) {
         setMemberCachePolicy(MemberCachePolicy.DEFAULT)
-        intents += GatewayIntent.GUILD_VOICE_STATES
+        intents += listOf(GatewayIntent.GUILD_VOICE_STATES, GatewayIntent.MESSAGE_CONTENT)
         cache += CacheFlag.VOICE_STATE
         addEventListeners(HskCommandListener)
         addEventListeners(HskGameEventListener)
