@@ -4,6 +4,7 @@ plugins {
     application
     kotlin("jvm") version "1.7.20"
     kotlin("plugin.serialization") version "1.7.20"
+    id("com.google.cloud.tools.jib") version "3.3.1"
 }
 
 group = "love.sola"
@@ -51,5 +52,18 @@ tasks.withType<KotlinCompile> {
     kotlinOptions {
         freeCompilerArgs = listOf("-Xjsr305=strict", "-Xjvm-default=all")
         jvmTarget = "17"
+    }
+}
+
+jib {
+    from {
+        image = "eclipse-temurin:17"
+    }
+    to {
+        image = "unlimitedsola/laoshi-plus-plus"
+    }
+    container {
+        appRoot = "/app"
+        workingDirectory = appRoot
     }
 }
