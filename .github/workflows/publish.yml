@@ -6,7 +6,7 @@ on:
     types: [completed]
     branches: [master]
 jobs:
-  run-test:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
