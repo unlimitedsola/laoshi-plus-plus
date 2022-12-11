@@ -1,0 +1,22 @@
+name: publish
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: [check]
+    types: [completed]
+    branches: [master]
+jobs:
+  run-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+      - name: Publish to Docker Hub
+        uses: gradle/gradle-build-action@v2
+        arguments: |
+          jib
+          -Djib.auth.username=${{ secrets.DOCKER_USERNAME }}
+          -Djib.auth.password=${{ secrets.DOCKER_PASSWORD }}
