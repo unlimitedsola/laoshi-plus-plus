@@ -2,8 +2,8 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     application
-    kotlin("jvm") version "1.7.20"
-    kotlin("plugin.serialization") version "1.7.20"
+    kotlin("jvm") version "1.7.21"
+    kotlin("plugin.serialization") version "1.7.21"
     id("com.google.cloud.tools.jib") version "3.3.1"
 }
 
@@ -25,12 +25,12 @@ dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1")
 
-    implementation("net.dv8tion:JDA:5.0.0-alpha.22")
-    implementation("com.github.minndevelopment:jda-ktx:863470e")
+    implementation("net.dv8tion:JDA:5.0.0-beta.2")
+    implementation("com.github.minndevelopment:jda-ktx:17eb77a")
 
-    implementation("org.slf4j:slf4j-api:2.0.3")
-    implementation("ch.qos.logback:logback-core:1.4.4")
-    implementation("ch.qos.logback:logback-classic:1.4.4")
+    implementation("org.slf4j:slf4j-api:2.0.5")
+    implementation("ch.qos.logback:logback-core:1.4.5")
+    implementation("ch.qos.logback:logback-classic:1.4.5")
 
     testImplementation(kotlin("test-junit5"))
 }
