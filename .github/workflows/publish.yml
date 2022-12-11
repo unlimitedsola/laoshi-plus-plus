@@ -16,7 +16,8 @@ jobs:
           distribution: 'temurin'
       - name: Publish to Docker Hub
         uses: gradle/gradle-build-action@v2
-        arguments: |
-          jib
-          -Djib.auth.username=${{ secrets.DOCKER_USERNAME }}
-          -Djib.auth.password=${{ secrets.DOCKER_PASSWORD }}
+        with:
+          arguments: |
+            jib
+            -Djib.auth.username=${{ secrets.DOCKER_USERNAME }}
+            -Djib.auth.password=${{ secrets.DOCKER_PASSWORD }}

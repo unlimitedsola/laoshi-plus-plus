@@ -16,4 +16,5 @@ jobs:
           distribution: 'temurin'
       - name: Check
         uses: gradle/gradle-build-action@v2
-        arguments: check
+        with:
+          arguments: check
