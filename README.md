@@ -16,7 +16,7 @@ $ docker run -e DISCORD_TOKEN unlimitedsola/laoshi-plus-plus
 
 ## Dictionaries
 
-The dictionaries are stored in JSON Format inside the [resource folder](./src/main/resources).
+The dictionaries are stored in JSON Format inside the [resource folder](./src/main/resources/levels).
 
 You can contribute to the dictionaries by opening a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 Please make sure your formatting is consistent with the existing dictionaries.
