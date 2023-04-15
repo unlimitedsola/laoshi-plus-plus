@@ -25,10 +25,9 @@ repositories {
 }
 
 dependencies {
-    implementation(kotlin("stdlib-jdk8"))
     implementation(libs.kotlin.serialization)
 
-    implementation(libs.slf4j)
+    implementation(libs.slf4k)
     implementation(libs.bundles.logback)
 
     implementation(libs.jda)
