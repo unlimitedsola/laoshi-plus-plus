@@ -45,7 +45,7 @@ jib {
         image = "eclipse-temurin:17"
     }
     to {
-        image = "unlimitedsola/laoshi-plus-plus"
+        image = rootProject.name
     }
     container {
         appRoot = "/app"
