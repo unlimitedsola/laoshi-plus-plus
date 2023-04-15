@@ -1,14 +1,17 @@
-import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
-
 plugins {
+    alias(libs.plugins.kotlin.jvm)
+    alias(libs.plugins.kotlin.serialization)
     application
-    kotlin("jvm") version "1.7.21"
-    kotlin("plugin.serialization") version "1.7.21"
-    id("com.google.cloud.tools.jib") version "3.3.1"
+    alias(libs.plugins.jib)
 }
 
 group = "love.sola"
-version = "1.0-SNAPSHOT"
+
+java {
+    toolchain {
+        languageVersion.set(JavaLanguageVersion.of(17))
+    }
+}
 
 application {
     mainClass.set("love.sola.laoshipp.MainKt")
@@ -23,36 +26,19 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1")
+    implementation(libs.kotlin.serialization)
 
-    implementation("net.dv8tion:JDA:5.0.0-beta.2")
-    implementation("com.github.minndevelopment:jda-ktx:17eb77a")
+    implementation(libs.slf4j)
+    implementation(libs.bundles.logback)
 
-    implementation("org.slf4j:slf4j-api:2.0.5")
-    implementation("ch.qos.logback:logback-core:1.4.5")
-    implementation("ch.qos.logback:logback-classic:1.4.5")
+    implementation(libs.jda)
+    implementation(libs.jda.ktx)
 
     testImplementation(kotlin("test-junit5"))
 }
 
-tasks.test {
+tasks.withType<Test> {
     useJUnitPlatform()
-}
-
-java {
-    sourceCompatibility = JavaVersion.VERSION_17
-    targetCompatibility = JavaVersion.VERSION_17
-}
-
-tasks.withType<JavaCompile> {
-    options.compilerArgs.add("-parameters")
-}
-
-tasks.withType<KotlinCompile> {
-    kotlinOptions {
-        freeCompilerArgs = listOf("-Xjsr305=strict", "-Xjvm-default=all")
-        jvmTarget = "17"
-    }
 }
 
 jib {
