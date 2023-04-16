@@ -10,11 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - uses: azure/k8s-set-context@v3
+        with:
+          method: kubeconfig
+          kubeconfig: ${{ secrets.KUBECONFIG }}
       - name: Deploy
         env:
-          HELM_KUBEAPISERVER: ${{ secrets.KUBEAPISERVER }}
-          HELM_KUBETOKEN: ${{ secrets.KUBETOKEN }}
-          HELM_NAMESPACE: laoshi-plus-plus
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
         run: |
           helm upgrade --install laoshi-plus-plus k8s --set image.tag=${{ github.sha }} --set discordToken=$DISCORD_TOKEN
