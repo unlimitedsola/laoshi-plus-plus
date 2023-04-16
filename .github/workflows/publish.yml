@@ -22,4 +22,7 @@ jobs:
       - name: Publish to Docker Hub
         uses: gradle/gradle-build-action@v2
         with:
-          arguments: jib --image=${{ github.repository }}:latest
+          arguments: |
+            jib
+            --image=${{ github.repository }}
+            -Djib.to.tags=latest,${{ github.sha }}
