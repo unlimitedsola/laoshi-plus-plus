@@ -18,4 +18,4 @@ jobs:
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
         run: |
-          helm upgrade --install laoshi-plus-plus k8s --set image.tag=${{ github.sha }} --set discordToken=$DISCORD_TOKEN
+          helm upgrade --install laoshi-plus-plus k8s -n laoshi-plus-plus --set image.tag=${{ github.sha }} --set discordToken=$DISCORD_TOKEN
