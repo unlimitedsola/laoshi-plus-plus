@@ -4,7 +4,7 @@ logback = "1.5.3"
 [plugins]
 kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
-jib = { id = "com.google.cloud.tools.jib", version = "3.4.1" }
+jib = { id = "com.google.cloud.tools.jib", version = "3.4.2" }
 [libraries]
 kotlin-serialization = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version = "1.6.3" }
 slf4k = { module = "dev.ocpd.slf4k:slf4k", version = "0.2.0" }
