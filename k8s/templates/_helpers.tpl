@@ -49,14 +49,3 @@ Selector labels
 app.kubernetes.io/name: {{ include "laoshi-plus-plus.name" . }}
 app.kubernetes.io/instance: {{ .Release.Name }}
 {{- end }}
-
-{{/*
-Create the name of the service account to use
-*/}}
-{{- define "laoshi-plus-plus.serviceAccountName" -}}
-{{- if .Values.serviceAccount.create }}
-{{- default (include "laoshi-plus-plus.fullname" .) .Values.serviceAccount.name }}
-{{- else }}
-{{- default "default" .Values.serviceAccount.name }}
-{{- end }}
-{{- end }}
