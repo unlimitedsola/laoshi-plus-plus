@@ -10,7 +10,7 @@ kotlin-serialization = { module = "org.jetbrains.kotlinx:kotlinx-serialization-j
 slf4k = { module = "dev.ocpd.slf4k:slf4k", version = "0.2.0" }
 logback-core = { module = "ch.qos.logback:logback-core", version.ref = "logback" }
 logback-classic = { module = "ch.qos.logback:logback-classic", version.ref = "logback" }
-jda = { module = "net.dv8tion:JDA", version = "5.1.2" }
+jda = { module = "net.dv8tion:JDA", version = "5.2.0" }
 jda-ktx = { module = "com.github.minndevelopment:jda-ktx", version = "17eb77a" }
 [bundles]
 logback = ["logback-core", "logback-classic"]
